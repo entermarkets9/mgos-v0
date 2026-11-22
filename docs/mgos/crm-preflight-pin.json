@@ -1,0 +1,17 @@
+{
+  "repository": null,
+  "release": "v2.45.0",
+  "commit": "7e1431c84adbb264db98ab8b8d008a8401b6d4d6",
+  "node": "^24.5.0",
+  "yarn": "4.13.0",
+  "vultrPlan": "vc2-1c-0.5gb-v6",
+  "vultrMaximumMonthlyUSD": 3,
+  "workload": {
+    "users": 5,
+    "jobs": 100,
+    "burstSeconds": 1800,
+    "soakSeconds": 86400,
+    "minimumHostHeadroomPercent": 20
+  },
+  "status": "ARCHIVED_BASELINE_REQUIRES_REBRANDED_FORK"
+}
