@@ -17083,7 +17083,7 @@ msgstr "내 이메일 열람 및 클릭 추적 계속"
 #. js-lingui-id: TOIQKe
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
-msgid "Keep Twenty"
+msgid "Keep MGOS"
 msgstr "MGOS 유지"
 
 #. js-lingui-id: 7sMeHQ
@@ -22069,7 +22069,7 @@ msgstr "두 번 실행해도 안전한 단계에만 활성화하세요. 실패�
 
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
+msgid "Only if a MGOS partner referred you. Once applied, it can't be changed."
 msgstr "MGOS 파트너의 추천을 받은 경우에만 가능합니다. 적용한 후에는 변경할 수 없습니다."
 
 #. js-lingui-id: aluwJP
@@ -29793,7 +29793,7 @@ msgstr "이 코드를 사용하면 {memberName}님이 인증 앱 없이 이 워�
 
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "The code of the Twenty partner who referred you"
+msgid "The code of the MGOS partner who referred you"
 msgstr "귀하를 추천한 MGOS 파트너의 코드"
 
 #. js-lingui-id: aXzQ65
@@ -29975,7 +29975,7 @@ msgstr "찾고 계신 페이지는 이미 사라졌거나 존재하지 않습니
 
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
-msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+msgid "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
 msgstr "이 PDF는 Twenty에서 미리 서명했으며, 귀하의 법인과 승인된 서명권자와 함께 체결됩니다."
 
 #. js-lingui-id: iz994T

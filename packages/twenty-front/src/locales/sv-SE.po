@@ -17083,7 +17083,7 @@ msgstr "Fortsätt spåra mina öppningar och klick"
 #. js-lingui-id: TOIQKe
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
-msgid "Keep Twenty"
+msgid "Keep MGOS"
 msgstr "Behåll MGOS"
 
 #. js-lingui-id: 7sMeHQ
@@ -22071,7 +22071,7 @@ msgstr "Aktivera endast för steg som är säkra att köra två gånger: ett mis
 
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
+msgid "Only if a MGOS partner referred you. Once applied, it can't be changed."
 msgstr "Endast om en MGOS-partner hänvisade dig. När den har tillämpats kan den inte ändras."
 
 #. js-lingui-id: aluwJP
@@ -29799,7 +29799,7 @@ msgstr "Koden låter {memberName} logga in på den här arbetsytan en gång utan
 
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "The code of the Twenty partner who referred you"
+msgid "The code of the MGOS partner who referred you"
 msgstr "Koden för den MGOS-partner som hänvisade dig"
 
 #. js-lingui-id: aXzQ65
@@ -29981,7 +29981,7 @@ msgstr "Sidan du söker är antingen borta eller har aldrig funnits. Låt oss hj
 
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
-msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+msgid "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
 msgstr "PDF:en är försignerad av MGOS och ingås med din juridiska enhet och behörig undertecknare."
 
 #. js-lingui-id: iz994T

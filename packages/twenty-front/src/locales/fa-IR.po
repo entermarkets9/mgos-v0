@@ -17083,7 +17083,7 @@ msgstr "ردیابی باز کردن ایمیل‌ها و کلیک‌هایم ر
 #. js-lingui-id: TOIQKe
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
-msgid "Keep Twenty"
+msgid "Keep MGOS"
 msgstr "MGOS را نگه دارید"
 
 #. js-lingui-id: 7sMeHQ
@@ -22069,7 +22069,7 @@ msgstr "فقط برای مراحلی فعال کنید که اجرای دوبا�
 
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
+msgid "Only if a MGOS partner referred you. Once applied, it can't be changed."
 msgstr "فقط اگر یکی از شرکای MGOS شما را معرفی کرده باشد. پس از اعمال، قابل تغییر نیست."
 
 #. js-lingui-id: aluwJP
@@ -29793,7 +29793,7 @@ msgstr "این کد به {memberName} اجازه می‌دهد یک‌بار ب�
 
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "The code of the Twenty partner who referred you"
+msgid "The code of the MGOS partner who referred you"
 msgstr "کد شریک MGOS که شما را معرفی کرده است"
 
 #. js-lingui-id: aXzQ65
@@ -29975,7 +29975,7 @@ msgstr "صفحه‌ای که به دنبال آن هستید یا حذف شده 
 
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
-msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+msgid "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
 msgstr "PDF از پیش توسط MGOS امضا شده و با نهاد حقوقی و امضاکننده مجاز شما منعقد شده است."
 
 #. js-lingui-id: iz994T

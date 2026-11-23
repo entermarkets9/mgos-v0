@@ -17083,7 +17083,7 @@ msgstr "Blijf het openen van mijn e-mails en mijn klikken bijhouden"
 #. js-lingui-id: TOIQKe
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
-msgid "Keep Twenty"
+msgid "Keep MGOS"
 msgstr "MGOS behouden"
 
 #. js-lingui-id: 7sMeHQ
@@ -22069,7 +22069,7 @@ msgstr "Schakel dit alleen in voor stappen die veilig twee keer kunnen worden ui
 
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
+msgid "Only if a MGOS partner referred you. Once applied, it can't be changed."
 msgstr "Alleen als een MGOS-partner je heeft doorverwezen. Na toepassing kan dit niet meer worden gewijzigd."
 
 #. js-lingui-id: aluwJP
@@ -29793,7 +29793,7 @@ msgstr "Met de code kan {memberName} zich eenmalig bij deze werkruimte aanmelden
 
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "The code of the Twenty partner who referred you"
+msgid "The code of the MGOS partner who referred you"
 msgstr "De code van de MGOS-partner die u heeft doorverwezen"
 
 #. js-lingui-id: aXzQ65
@@ -29975,7 +29975,7 @@ msgstr "De pagina die u zoekt is verdwenen of heeft nooit bestaan. Laten we u te
 
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
-msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+msgid "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
 msgstr "De PDF is vooraf ondertekend door MGOS en wordt namens jouw rechtspersoon door de bevoegde ondertekenaar ondertekend."
 
 #. js-lingui-id: iz994T

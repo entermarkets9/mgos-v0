@@ -17083,7 +17083,7 @@ msgstr "E-mailjeim megnyitásának és a kattintásaimnak a nyomon követése ma
 #. js-lingui-id: TOIQKe
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
-msgid "Keep Twenty"
+msgid "Keep MGOS"
 msgstr "MGOS megtartása"
 
 #. js-lingui-id: 7sMeHQ
@@ -22069,8 +22069,8 @@ msgstr "Csak olyan lépéseknél engedélyezze, amelyek biztonságosan kétszer 
 
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
-msgstr "Csak akkor, ha egy Twenty partner ajánlotta Önt. Alkalmazás után nem módosítható."
+msgid "Only if a MGOS partner referred you. Once applied, it can't be changed."
+msgstr "Csak akkor, ha egy MGOS partner ajánlotta Önt. Alkalmazás után nem módosítható."
 
 #. js-lingui-id: aluwJP
 #: src/modules/settings/data-model/object-details/components/SettingsUpdateDataModelObjectAboutForm.tsx
@@ -29793,7 +29793,7 @@ msgstr "A kód lehetővé teszi, hogy {memberName} egyszer bejelentkezzen ebbe a
 
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "The code of the Twenty partner who referred you"
+msgid "The code of the MGOS partner who referred you"
 msgstr "Az Önt ajánló MGOS-partner kódja"
 
 #. js-lingui-id: aXzQ65
@@ -29975,7 +29975,7 @@ msgstr "Az Ön által keresett oldal vagy eltűnt, vagy soha nem is létezett. S
 
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
-msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+msgid "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
 msgstr "A PDF-et a MGOS előre aláírta, és az Ön jogi entitásával és felhatalmazott aláírójával kerül végrehajtásra."
 
 #. js-lingui-id: iz994T

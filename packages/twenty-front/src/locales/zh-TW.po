@@ -17083,7 +17083,7 @@ msgstr "繼續追蹤我的開啟次數和點擊次數"
 #. js-lingui-id: TOIQKe
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
-msgid "Keep Twenty"
+msgid "Keep MGOS"
 msgstr "保留 MGOS"
 
 #. js-lingui-id: 7sMeHQ
@@ -22069,7 +22069,7 @@ msgstr "僅針對可安全執行兩次的步驟啟用：失敗的嘗試可能已
 
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
+msgid "Only if a MGOS partner referred you. Once applied, it can't be changed."
 msgstr "僅限由 MGOS 合作夥伴推薦您時使用。套用後無法變更。"
 
 #. js-lingui-id: aluwJP
@@ -29793,7 +29793,7 @@ msgstr "此代碼可讓 {memberName} 無需使用其驗證器應用程式，即�
 
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "The code of the Twenty partner who referred you"
+msgid "The code of the MGOS partner who referred you"
 msgstr "推薦您的 MGOS 合作夥伴代碼"
 
 #. js-lingui-id: aXzQ65
@@ -29975,7 +29975,7 @@ msgstr "您正在尋找的頁面已經消失或從未存在。讓我們幫助您
 
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
-msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+msgid "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
 msgstr "此 PDF 已由 MGOS 預先簽署，並與您的法人實體與授權簽署人共同生效。"
 
 #. js-lingui-id: iz994T

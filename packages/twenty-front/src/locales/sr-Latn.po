@@ -17083,7 +17083,7 @@ msgstr "Nastavi sa praćenjem mojih otvaranja i klikova"
 #. js-lingui-id: TOIQKe
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
-msgid "Keep Twenty"
+msgid "Keep MGOS"
 msgstr "Zadrži MGOS"
 
 #. js-lingui-id: 7sMeHQ
@@ -22069,8 +22069,8 @@ msgstr "Omogućite samo za korake koje je bezbedno izvršiti dvaput: neuspešan 
 
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
-msgstr "Samo ako vas je preporučio Twenty partner. Kada se primeni, ne može se promeniti."
+msgid "Only if a MGOS partner referred you. Once applied, it can't be changed."
+msgstr "Samo ako vas je preporučio MGOS partner. Kada se primeni, ne može se promeniti."
 
 #. js-lingui-id: aluwJP
 #: src/modules/settings/data-model/object-details/components/SettingsUpdateDataModelObjectAboutForm.tsx
@@ -29793,8 +29793,8 @@ msgstr "Kôd omogućava korisniku {memberName} da se jednom prijavi u ovaj radni
 
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "The code of the Twenty partner who referred you"
-msgstr "Kod Twenty partnera koji vas je preporučio"
+msgid "The code of the MGOS partner who referred you"
+msgstr "Kod MGOS partnera koji vas je preporučio"
 
 #. js-lingui-id: aXzQ65
 #: src/modules/ai-chat/messages/components/AiChatCompactionIndicator.tsx
@@ -29975,7 +29975,7 @@ msgstr "Stranica koju tražite je ili uklonjena ili nikad nije postojala. Vratim
 
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
-msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+msgid "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
 msgstr "PDF je unapred potpisan od strane MGOS i zaključuje se sa vašim pravnim licem i ovlašćenim potpisnikom."
 
 #. js-lingui-id: iz994T

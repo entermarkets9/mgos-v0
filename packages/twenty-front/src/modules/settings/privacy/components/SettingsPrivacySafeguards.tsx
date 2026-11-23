@@ -53,7 +53,7 @@ export const SettingsPrivacySafeguards = () => {
                 stroke={theme.icon.stroke.md}
                 color={theme.color.blue}
               />
-              <StyledSettingsBillingCardTitleLabel>{t`Twenty Cloud`}</StyledSettingsBillingCardTitleLabel>
+              <StyledSettingsBillingCardTitleLabel>{t`MGOS Cloud`}</StyledSettingsBillingCardTitleLabel>
             </StyledSettingsBillingCardTitle>
             <Button
               size="sm"
@@ -73,7 +73,7 @@ export const SettingsPrivacySafeguards = () => {
                 {t`Own database schema`}
               </BillingFieldRow>
               <BillingFieldRow Icon={IconCpu} label={t`AI training`}>
-                {t`Never, by Twenty or providers`}
+                {t`Never, by MGOS or providers`}
               </BillingFieldRow>
             </StyledSettingsBillingCardFieldList>
             <StyledSettingsBillingCardFieldListWithDivider>

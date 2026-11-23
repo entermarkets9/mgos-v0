@@ -17083,7 +17083,7 @@ msgstr "המשך לעקוב אחר פתיחות ולחיצות שלי"
 #. js-lingui-id: TOIQKe
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
-msgid "Keep Twenty"
+msgid "Keep MGOS"
 msgstr "השאר את MGOS"
 
 #. js-lingui-id: 7sMeHQ
@@ -22069,7 +22069,7 @@ msgstr "הפעילו רק עבור שלבים שבטוח להריץ פעמיים
 
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
+msgid "Only if a MGOS partner referred you. Once applied, it can't be changed."
 msgstr "רק אם הופנית על ידי שותף של MGOS. לאחר ההחלה, לא ניתן לשנות זאת."
 
 #. js-lingui-id: aluwJP
@@ -29793,7 +29793,7 @@ msgstr "הקוד מאפשר ל-{memberName} להיכנס למרחב עבודה �
 
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "The code of the Twenty partner who referred you"
+msgid "The code of the MGOS partner who referred you"
 msgstr "הקוד של שותף MGOS שהפנה אותך"
 
 #. js-lingui-id: aXzQ65
@@ -29975,7 +29975,7 @@ msgstr ""
 
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
-msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+msgid "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
 msgstr "ה-PDF נחתם מראש על ידי MGOS ומבוצע עם הישות המשפטית שלך והחותם המורשה שלך."
 
 #. js-lingui-id: iz994T

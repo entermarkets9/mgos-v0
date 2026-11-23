@@ -17078,8 +17078,8 @@ msgstr "Keep tracking my opens and clicks"
 #. js-lingui-id: TOIQKe
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
-msgid "Keep Twenty"
-msgstr "Keep Twenty"
+msgid "Keep MGOS"
+msgstr "Keep MGOS"
 
 #. js-lingui-id: 7sMeHQ
 #: src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/KeyValuePairInput.tsx
@@ -22064,8 +22064,8 @@ msgstr "Only enable for steps that are safe to run twice: a failed attempt may a
 
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
-msgstr "Only if a Twenty partner referred you. Once applied, it can't be changed."
+msgid "Only if a MGOS partner referred you. Once applied, it can't be changed."
+msgstr "Only if a MGOS partner referred you. Once applied, it can't be changed."
 
 #. js-lingui-id: aluwJP
 #: src/modules/settings/data-model/object-details/components/SettingsUpdateDataModelObjectAboutForm.tsx
@@ -29788,8 +29788,8 @@ msgstr "The code lets {memberName} sign in to this workspace once without their 
 
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
-msgid "The code of the Twenty partner who referred you"
-msgstr "The code of the Twenty partner who referred you"
+msgid "The code of the MGOS partner who referred you"
+msgstr "The code of the MGOS partner who referred you"
 
 #. js-lingui-id: aXzQ65
 #: src/modules/ai-chat/messages/components/AiChatCompactionIndicator.tsx
@@ -29970,8 +29970,8 @@ msgstr "The page you're seeking is either gone or never was. Let's get you back 
 
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
-msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
-msgstr "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
+msgid "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
+msgstr "The PDF is pre-signed by MGOS and executed with your legal entity and authorized signatory."
 
 #. js-lingui-id: iz994T
 #: src/modules/ai-chat/tool-calls/components/AiChatApprovalMergeReview.tsx
