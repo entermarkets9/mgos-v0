@@ -50,7 +50,12 @@
     "docs:prune-orphans": "tsx packages/twenty-docs/scripts/prune-orphan-translations.ts",
     "docs:fix-links": "tsx packages/twenty-docs/scripts/fix-translated-links.ts",
     "docs:restore-attributes": "tsx packages/twenty-docs/scripts/restore-translated-attributes.ts",
-    "start": "npx concurrently --kill-others 'npx nx run-many -t start -p twenty-server twenty-front' 'npx wait-on tcp:3000 && npx nx run twenty-server:worker'"
+    "start": "npx concurrently --kill-others 'npx nx run-many -t start -p twenty-server twenty-front' 'npx wait-on tcp:3000 && npx nx run twenty-server:worker'",
+    "dx": "bash scripts/dx/run.sh",
+    "dx:bootstrap": "bash scripts/dx/bootstrap.sh",
+    "dx:runtime": "bash scripts/dx/runtime.sh",
+    "dx:slot": "bash scripts/dx/slot.sh",
+    "dx:test": "node --test scripts/dx/*.test.mjs"
   },
   "workspaces": {
     "packages": [
