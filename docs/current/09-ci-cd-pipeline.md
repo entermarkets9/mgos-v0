@@ -1,7 +1,9 @@
 # 9. CI/CD pipeline
 
 The [workflow source](../../.github/workflows/) defines actual jobs and guards.
-The integration branch is **`main`** (`origin/HEAD`); land work there via PR.
+The integration branch is **`dev`** (`origin/HEAD`); land work there via PR.
+`stg` and `prod` are release branches, kept at the promoted integration state;
+`main` remains as a compatibility alias of `dev`.
 
 ## Merge gate
 
@@ -10,10 +12,10 @@ The integration branch is **`main`** (`origin/HEAD`); land work there via PR.
 | Node | `^26.5.1` (engines gate in `yarn.config.cjs:26` hard-fails any other major) |
 | Install | `yarn install --immutable` (Yarn 4 via corepack / `.yarnrc.yml`) |
 | Commit messages | No AI attribution — CI rejects `@anthropic.com` co-author trailers or "Generated with Claude Code" lines |
-| Branch strategy | Work on `agent/<letter>/<task>` or `task/<name>` branches; PR into `main` |
+| Branch strategy | Work on `agent/<letter>/<task>` or `task/<name>` branches; PR into `dev` |
 
 Stack phase PRs (e.g. `docs/plans/nabra-on-mgos/PHASE-*`) build on the previous
-phase's branch, not on an older merged commit; each PR still targets `main` and
+phase's branch, not on an older merged commit; each PR still targets `dev` and
 records its base branch in the body.
 
 ## Tests and verification
@@ -32,7 +34,8 @@ npx nx run twenty-front:graphql:generate      # after GraphQL schema changes
 
 ## Releases
 
-There is no automated deployment to sh2/sh5b from CI; deployments and
-activation stay with the operator and the guarded lifecycle (see
-[operations](04-operations-runbook.md) and the
+`stg` and `prod` are operator-promoted release branches; `dev` merges do not
+automatically promote them. There is no automated deployment to sh2/sh5b from
+CI; deployments and activation stay with the operator and the guarded lifecycle
+(see [operations](04-operations-runbook.md) and the
 [release inventory](11-release-state-inventory.md)).

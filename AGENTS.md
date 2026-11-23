@@ -1,8 +1,10 @@
 # MGOS agent policy
 
 Project: **MGOS** — a private fork of `twentyhq/twenty` (Nx / Yarn 4 monorepo) at
-`git@github.com:entermarkets9/mgos.git`. The integration branch is **`main`**
-(`origin/HEAD`); land work there via PR. Node `^26.5.1` is mandatory (the
+`git@github.com:entermarkets9/mgos.git`. The integration branch is **`dev`**
+(`origin/HEAD`); land work there via PR. `stg` and `prod` are release branches,
+kept at the promoted integration state (see `docs/current/09-ci-cd-pipeline.md`).
+`main` remains as a compatibility alias of `dev`. Node `^26.5.1` is mandatory (the
 engines gate in `yarn.config.cjs` hard-fails any other major), Yarn 4 runs
 through corepack / `.yarnrc.yml` (`yarn install --immutable`).
 
@@ -35,13 +37,13 @@ edits files the other is building.
    branch names (`agent/<letter>/<task>` or `task/<name>`), and in commit/PR
    notes so work maps back to an agent.
 2. **Work only inside your own worktree.**
-   - Operator PC: `git worktree add ..\mgos-Agent-A -b agent/a/<task> origin/main`
+   - Operator PC: `git worktree add ..\mgos-Agent-A -b agent/a/<task> origin/dev`
      — the sibling directory `mgos-Agent-A` is Agent-A's tree for the session.
    - sh2: `cd /srv/mgos/mgos`, then
      `SLOT="$(scripts/dx/slot.sh claim <task-name> --owner Agent-A)"`;
      `cd "$SLOT"` and work ONLY there. A slot is a real `git worktree` under
      `${MGOS_DX_HOME:-$HOME/.mgos-dx}/worktrees/<task-name>` on branch
-     `task/<task-name>`, created from `origin/main`.
+     `task/<task-name>`, created from `origin/dev`.
    - Two writers never share a working tree, an index, `node_modules`, or a
      branch, so no switch can discard another's uncommitted work.
 3. **Never switch branches in a checkout you do not own.** `git checkout`,
@@ -54,9 +56,9 @@ edits files the other is building.
    name, or a name whose `task/<name>` branch already exists, is refused on
    purpose: reuse would reset someone's commits. On the PC the agent's worktree
    hosts its task branches sequentially; commit before switching tasks inside it.
-5. **Land work onto `main` by push/merge, never by moving another checkout onto
+5. **Land work onto `dev` by push/merge, never by moving another checkout onto
    your branch.** Commit in your worktree/slot, push the branch, open a PR into
-   `main` (or hand it to the orchestrator). Fast-forward a shared checkout only
+   `dev` (or hand it to the orchestrator). Fast-forward a shared checkout only
    when it is clean; otherwise report the dirty paths instead of stashing them.
 6. **Never clean up another agent's worktree or slot.** `slot.sh release <name>`
    refuses a dirty slot unless `--force`; `--force` discards that slot's
@@ -94,9 +96,9 @@ edits files the other is building.
 11. **Stack phase PRs on top of each other (mandatory).** For sequential
     multi-phase work (e.g. `docs/plans/nabra-on-mgos/PHASE-*`), a phase's
     branch/PR is created from the **previous phase's branch** (its unmerged
-    tip), not from `origin/main` — never from an older merged commit. A later
+    tip), not from `origin/dev` — never from an older merged commit. A later
     phase may start before the earlier phase merges; it just builds on that
-    branch. Each PR still targets `main` and its base branch is recorded in the
+    branch. Each PR still targets `dev` and its base branch is recorded in the
     PR body so the merge order is explicit. Do not rebase a stack mid-flight
     unless the operator asks: rebasing one PR in a stack rewrites every PR
     above it.

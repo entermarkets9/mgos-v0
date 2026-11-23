@@ -10,7 +10,7 @@ bound execution. A historical handoff is not standing approval for another task.
   slot. Never reuse another session's letter while its worktree/branch is live.
 - Never switch branches, stash, reset, clean, or rebase in a checkout you do not
   own (`C:\codespace\mgos`, `/srv/mgos/mgos`, any agent's worktree/slot).
-- Land work onto `main` by push/merge/PR, never by moving another checkout onto
+- Land work onto `dev` by push/merge/PR, never by moving another checkout onto
   your branch.
 - Never clean up another agent's worktree or slot.
 - No state smuggling between worktrees: `.env`, credentials, cookies, OAuth

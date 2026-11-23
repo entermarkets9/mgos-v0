@@ -9,7 +9,7 @@ verified on the live system, not recalled.
 | --- | --- |
 | Repo | `git@github.com:entermarkets9/mgos.git` (private) |
 | Base commit | `4bac2940dcdcbf4bb4c974b628cd5e1b0a2e37e0` (2026-11-22 upstream `main`) |
-| HEAD | `c7f721d402` = `origin/main` |
+| HEAD | `f2d5b974c8` = `origin/dev` (integration branch; `main` is a compatibility alias, `stg`/`prod` release branches) |
 | Working tree | clean (operator PC `C:\codespace\mgos`) |
 
 ## Live dev environment (sh2 `192.168.100.181`)
