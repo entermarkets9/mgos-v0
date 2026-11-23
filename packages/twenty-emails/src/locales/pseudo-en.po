@@ -85,7 +85,7 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
+msgid "Connect to MGOS"
 msgstr ""
 
 #. js-lingui-explicit-id
@@ -160,7 +160,7 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
-msgid "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
+msgid "If MGOS is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
 msgstr ""
 
 #. js-lingui-explicit-id
@@ -185,7 +185,7 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
-msgid "If you'd ever like to give Twenty another try, you can start a fresh workspace in minutes — we'd love to have you back."
+msgid "If you'd ever like to give MGOS another try, you can start a fresh workspace in minutes — we'd love to have you back."
 msgstr ""
 
 #. js-lingui-explicit-id
@@ -205,7 +205,7 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
+msgid "Join your team on MGOS"
 msgstr ""
 
 #. js-lingui-explicit-id
@@ -251,7 +251,7 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Read Twenty's user guide"
+msgid "Read MGOS's user guide"
 msgstr ""
 
 #. js-lingui-explicit-id
@@ -302,7 +302,7 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
+msgid "Thanks for registering for an account on MGOS! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
 msgstr ""
 
 #. js-lingui-explicit-id
@@ -332,17 +332,17 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/components/BaseHead.tsx
-msgid "Twenty email"
+msgid "MGOS email"
 msgstr ""
 
 #. js-lingui-explicit-id
 #: src/components/Logo.tsx
-msgid "Twenty logo"
+msgid "MGOS logo"
 msgstr ""
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Twenty.com, Public Benefit Corporation"
+msgid "MGOS.com, Public Benefit Corporation"
 msgstr ""
 
 #. js-lingui-explicit-id
@@ -378,17 +378,17 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's developer documentation"
+msgid "Visit MGOS's developer documentation"
 msgstr ""
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's GitHub repository"
+msgid "Visit MGOS's GitHub repository"
 msgstr ""
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's website"
+msgid "Visit MGOS's website"
 msgstr ""
 
 #. js-lingui-explicit-id
@@ -398,7 +398,7 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "We received a request to change the email address associated with your Twenty account. Click below to confirm this change."
+msgid "We received a request to change the email address associated with your MGOS account. Click below to confirm this change."
 msgstr ""
 
 #. js-lingui-explicit-id
@@ -408,7 +408,7 @@ msgstr ""
 
 #. js-lingui-explicit-id
 #: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
+msgid "What is MGOS?"
 msgstr ""
 
 #. js-lingui-explicit-id

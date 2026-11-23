@@ -90,8 +90,8 @@ msgstr "Bestätige deine neue E-Mail-Adresse"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
-msgstr "Mit Twenty verbinden"
+msgid "Connect to MGOS"
+msgstr "Mit MGOS verbinden"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
@@ -165,8 +165,8 @@ msgstr "Wenn Sie das nicht waren, wenden Sie sich an den Workspace-Administrator
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
-msgid "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
-msgstr "Wenn Twenty für Sie funktioniert, ist alles vorbereitet – Sie müssen nichts weiter tun. Wenn es nicht das Richtige für Sie ist, können Sie vorher mit einem Klick kündigen und es wird Ihnen nichts berechnet."
+msgid "If MGOS is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
+msgstr "Wenn MGOS für Sie funktioniert, ist alles vorbereitet – Sie müssen nichts weiter tun. Wenn es nicht das Richtige für Sie ist, können Sie vorher mit einem Klick kündigen und es wird Ihnen nichts berechnet."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -190,8 +190,8 @@ msgstr "Wenn Sie nichts tun, pausieren wir Ihren Arbeitsbereich und bewahren Ihr
 
 #. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
-msgid "If you'd ever like to give Twenty another try, you can start a fresh workspace in minutes — we'd love to have you back."
-msgstr "Wenn Sie Twenty irgendwann noch einmal ausprobieren möchten, können Sie in wenigen Minuten einen neuen Arbeitsbereich starten – wir würden uns freuen, Sie wiederzuhaben."
+msgid "If you'd ever like to give MGOS another try, you can start a fresh workspace in minutes — we'd love to have you back."
+msgstr "Wenn Sie MGOS irgendwann noch einmal ausprobieren möchten, können Sie in wenigen Minuten einen neuen Arbeitsbereich starten – wir würden uns freuen, Sie wiederzuhaben."
 
 #. js-lingui-explicit-id
 #: src/emails/server-admin-access-changed.email.tsx
@@ -210,8 +210,8 @@ msgstr "Seine Daten wurden entfernt und können nicht mehr wiederhergestellt wer
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
-msgstr "Treten Sie Ihrem Team auf Twenty bei"
+msgid "Join your team on MGOS"
+msgstr "Treten Sie Ihrem Team auf MGOS bei"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-subscription-renewing.email.tsx
@@ -256,8 +256,8 @@ msgstr "Arbeitsbereich reaktivieren"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Read Twenty's user guide"
-msgstr "Lesen Sie das Benutzerhandbuch von Twenty"
+msgid "Read MGOS's user guide"
+msgstr "Lesen Sie das Benutzerhandbuch von MGOS"
 
 #. js-lingui-explicit-id
 #: src/emails/password-reset-link.email.tsx
@@ -307,8 +307,8 @@ msgstr "Test E-Mail"
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
-msgstr "Vielen Dank für Ihre Registrierung bei Twenty! Bevor wir beginnen, müssen wir nur bestätigen, dass Sie es sind. Klicken Sie unten, um Ihre E-Mail-Adresse zu verifizieren."
+msgid "Thanks for registering for an account on MGOS! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
+msgstr "Vielen Dank für Ihre Registrierung bei MGOS! Bevor wir beginnen, müssen wir nur bestätigen, dass Sie es sind. Klicken Sie unten, um Ihre E-Mail-Adresse zu verifizieren."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-removed.email.tsx
@@ -337,18 +337,18 @@ msgstr "Um Ihren Arbeitsbereich und alles, was Sie aufgebaut haben, zu behalten,
 
 #. js-lingui-explicit-id
 #: src/components/BaseHead.tsx
-msgid "Twenty email"
-msgstr "Twenty-E-Mail"
+msgid "MGOS email"
+msgstr "MGOS-E-Mail"
 
 #. js-lingui-explicit-id
 #: src/components/Logo.tsx
-msgid "Twenty logo"
-msgstr "Twenty-Logo"
+msgid "MGOS logo"
+msgstr "MGOS-Logo"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Twenty.com, Public Benefit Corporation"
-msgstr "Twenty.com, Gemeinnützige Aktiengesellschaft"
+msgid "MGOS.com, Public Benefit Corporation"
+msgstr "MGOS.com, Gemeinnützige Aktiengesellschaft"
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -383,18 +383,18 @@ msgstr "E-Mail verifizieren"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's developer documentation"
-msgstr "Besuchen Sie die Entwicklerdokumentation von Twenty"
+msgid "Visit MGOS's developer documentation"
+msgstr "Besuchen Sie die Entwicklerdokumentation von MGOS"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's GitHub repository"
-msgstr "Besuchen Sie das GitHub-Repository von Twenty"
+msgid "Visit MGOS's GitHub repository"
+msgstr "Besuchen Sie das GitHub-Repository von MGOS"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's website"
-msgstr "Besuchen Sie die Twenty-Website"
+msgid "Visit MGOS's website"
+msgstr "Besuchen Sie die MGOS-Website"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
@@ -403,8 +403,8 @@ msgstr "Wir mögen keine überraschenden Abbuchungen, daher hier ein freundliche
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "We received a request to change the email address associated with your Twenty account. Click below to confirm this change."
-msgstr "Wir haben eine Anfrage erhalten, die mit Ihrem Twenty-Konto verknüpfte E-Mail-Adresse zu ändern. Klicken Sie unten, um diese Änderung zu bestätigen."
+msgid "We received a request to change the email address associated with your MGOS account. Click below to confirm this change."
+msgstr "Wir haben eine Anfrage erhalten, die mit Ihrem MGOS-Konto verknüpfte E-Mail-Adresse zu ändern. Klicken Sie unten, um diese Änderung zu bestätigen."
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
@@ -413,8 +413,8 @@ msgstr "Website"
 
 #. js-lingui-explicit-id
 #: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "Was ist Twenty?"
+msgid "What is MGOS?"
+msgstr "Was ist MGOS?"
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx

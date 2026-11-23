@@ -90,8 +90,8 @@ msgstr "Yangi elektron pochta manzilingizni tasdiqlang"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
-msgstr "Twenty ga ulaning"
+msgid "Connect to MGOS"
+msgstr "MGOS ga ulaning"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
@@ -165,8 +165,8 @@ msgstr "Agar buni siz qilmagan bo‘lsangiz, ish maydoni administratoringiz bila
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
-msgid "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
-msgstr "Agar Twenty siz uchun mos boʻlsa, hammasi tayyor — siz hech narsa qilishingiz shart emas. Agar u sizga toʻgʻri kelmasa, shu muddatgacha bir marta bosish bilan bekor qilishingiz mumkin va sizdan toʻlov olinmaydi."
+msgid "If MGOS is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
+msgstr "Agar MGOS siz uchun mos boʻlsa, hammasi tayyor — siz hech narsa qilishingiz shart emas. Agar u sizga toʻgʻri kelmasa, shu muddatgacha bir marta bosish bilan bekor qilishingiz mumkin va sizdan toʻlov olinmaydi."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -190,7 +190,7 @@ msgstr "Hech narsa qilmasangiz, biz ish maydoningizni pauza holatiga oʻtkazamiz
 
 #. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
-msgid "If you'd ever like to give Twenty another try, you can start a fresh workspace in minutes — we'd love to have you back."
+msgid "If you'd ever like to give MGOS another try, you can start a fresh workspace in minutes — we'd love to have you back."
 msgstr "Agar qachondir Twentyʼga yana bir bor imkon berishni istasangiz, bir necha daqiqada yangi ish maydonini boshlashingiz mumkin — sizni yana koʻrishdan mamnun boʻlamiz."
 
 #. js-lingui-explicit-id
@@ -210,8 +210,8 @@ msgstr "Uning maʼlumotlari olib tashlangan va endi qayta tiklab boʻlmaydi."
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
-msgstr "Jamoangizga Twenty da qoʻshiling"
+msgid "Join your team on MGOS"
+msgstr "Jamoangizga MGOS da qoʻshiling"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-subscription-renewing.email.tsx
@@ -256,8 +256,8 @@ msgstr "Ish maydonini qayta faollashtirish"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Read Twenty's user guide"
-msgstr "Twenty foydalanuvchi qoʻllanmasini oʻqing"
+msgid "Read MGOS's user guide"
+msgstr "MGOS foydalanuvchi qoʻllanmasini oʻqing"
 
 #. js-lingui-explicit-id
 #: src/emails/password-reset-link.email.tsx
@@ -307,8 +307,8 @@ msgstr "Sinov xati"
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
-msgstr "Twenty’da hisob qaydnomasidan o‘tganingiz uchun rahmat! Boshlashdan oldin, bu siz ekaningizni tasdiqlashimiz kerak. Elektron pochta manzilingizni tasdiqlash uchun quyidagi tugmani bosing."
+msgid "Thanks for registering for an account on MGOS! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
+msgstr "MGOS’da hisob qaydnomasidan o‘tganingiz uchun rahmat! Boshlashdan oldin, bu siz ekaningizni tasdiqlashimiz kerak. Elektron pochta manzilingizni tasdiqlash uchun quyidagi tugmani bosing."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-removed.email.tsx
@@ -337,18 +337,18 @@ msgstr "Ish maydoningiz va unda yaratganlaringizni saqlab qolish uchun toʻlov u
 
 #. js-lingui-explicit-id
 #: src/components/BaseHead.tsx
-msgid "Twenty email"
-msgstr "Twenty elektron pochtasi"
+msgid "MGOS email"
+msgstr "MGOS elektron pochtasi"
 
 #. js-lingui-explicit-id
 #: src/components/Logo.tsx
-msgid "Twenty logo"
-msgstr "Twenty logotipi"
+msgid "MGOS logo"
+msgstr "MGOS logotipi"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Twenty.com, Public Benefit Corporation"
-msgstr "Twenty.com, Public Benefit Corporation"
+msgid "MGOS.com, Public Benefit Corporation"
+msgstr "MGOS.com, Public Benefit Corporation"
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -383,18 +383,18 @@ msgstr "Elektron pochtani tasdiqlang"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's developer documentation"
-msgstr "Twenty’ning dasturchilar uchun hujjatlariga tashrif buyuring"
+msgid "Visit MGOS's developer documentation"
+msgstr "MGOS’ning dasturchilar uchun hujjatlariga tashrif buyuring"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's GitHub repository"
-msgstr "Twenty’ning GitHub repozitoriyasiga tashrif buyuring"
+msgid "Visit MGOS's GitHub repository"
+msgstr "MGOS’ning GitHub repozitoriyasiga tashrif buyuring"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's website"
-msgstr "Twenty veb-saytiga tashrif buyuring"
+msgid "Visit MGOS's website"
+msgstr "MGOS veb-saytiga tashrif buyuring"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
@@ -403,8 +403,8 @@ msgstr "Kutilmagan toʻlovlarni yoqtirmaymiz, shuning uchun sizni doʻstona tarz
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "We received a request to change the email address associated with your Twenty account. Click below to confirm this change."
-msgstr "Twenty hisob qaydnomangiz bilan bog‘langan elektron pochta manzilini o‘zgartirish so‘rovini oldik. Ushbu o‘zgarishni tasdiqlash uchun quyidagi tugmani bosing."
+msgid "We received a request to change the email address associated with your MGOS account. Click below to confirm this change."
+msgstr "MGOS hisob qaydnomangiz bilan bog‘langan elektron pochta manzilini o‘zgartirish so‘rovini oldik. Ushbu o‘zgarishni tasdiqlash uchun quyidagi tugmani bosing."
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
@@ -413,8 +413,8 @@ msgstr "Veb-sayt"
 
 #. js-lingui-explicit-id
 #: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "Twenty nima?"
+msgid "What is MGOS?"
+msgstr "MGOS nima?"
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx

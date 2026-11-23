@@ -90,8 +90,8 @@ msgstr "نشانی ایمیل جدید خود را تأیید کنید"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
-msgstr "به Twenty متصل شوید"
+msgid "Connect to MGOS"
+msgstr "به MGOS متصل شوید"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
@@ -165,8 +165,8 @@ msgstr "اگر این کار شما نبوده است، با مدیر فضای �
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
-msgid "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
-msgstr "اگر Twenty برایتان مناسب است، همه‌چیز آماده است — نیازی به انجام کاری نیست. اگر مناسب نیست، می‌توانید تا آن زمان با یک کلیک لغو کنید و مبلغی از شما کسر نخواهد شد."
+msgid "If MGOS is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
+msgstr "اگر MGOS برایتان مناسب است، همه‌چیز آماده است — نیازی به انجام کاری نیست. اگر مناسب نیست، می‌توانید تا آن زمان با یک کلیک لغو کنید و مبلغی از شما کسر نخواهد شد."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -190,8 +190,8 @@ msgstr "اگر کاری انجام ندهید، فضای کاری شما را م
 
 #. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
-msgid "If you'd ever like to give Twenty another try, you can start a fresh workspace in minutes — we'd love to have you back."
-msgstr "اگر زمانی خواستید دوباره Twenty را امتحان کنید، می‌توانید در چند دقیقه یک فضای کاری جدید راه‌اندازی کنید — خوشحال می‌شویم دوباره شما را ببینیم."
+msgid "If you'd ever like to give MGOS another try, you can start a fresh workspace in minutes — we'd love to have you back."
+msgstr "اگر زمانی خواستید دوباره MGOS را امتحان کنید، می‌توانید در چند دقیقه یک فضای کاری جدید راه‌اندازی کنید — خوشحال می‌شویم دوباره شما را ببینیم."
 
 #. js-lingui-explicit-id
 #: src/emails/server-admin-access-changed.email.tsx
@@ -210,8 +210,8 @@ msgstr "داده‌های آن حذف شده‌اند و دیگر قابل با�
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
-msgstr "به تیم خود در Twenty بپیوندید"
+msgid "Join your team on MGOS"
+msgstr "به تیم خود در MGOS بپیوندید"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-subscription-renewing.email.tsx
@@ -256,8 +256,8 @@ msgstr "فعال‌سازی مجدد فضای کاری"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Read Twenty's user guide"
-msgstr "راهنمای کاربر Twenty را بخوانید"
+msgid "Read MGOS's user guide"
+msgstr "راهنمای کاربر MGOS را بخوانید"
 
 #. js-lingui-explicit-id
 #: src/emails/password-reset-link.email.tsx
@@ -307,8 +307,8 @@ msgstr "ایمیل آزمایشی"
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
-msgstr "از ثبت‌نام برای یک حساب در Twenty سپاسگزاریم! پیش از شروع، فقط باید تأیید کنیم که این خود شما هستید. برای تأیید نشانی ایمیل خود، زیر را کلیک کنید."
+msgid "Thanks for registering for an account on MGOS! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
+msgstr "از ثبت‌نام برای یک حساب در MGOS سپاسگزاریم! پیش از شروع، فقط باید تأیید کنیم که این خود شما هستید. برای تأیید نشانی ایمیل خود، زیر را کلیک کنید."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-removed.email.tsx
@@ -337,18 +337,18 @@ msgstr "برای حفظ فضای کاری و هرآنچه ساخته‌اید، 
 
 #. js-lingui-explicit-id
 #: src/components/BaseHead.tsx
-msgid "Twenty email"
-msgstr "ایمیل Twenty"
+msgid "MGOS email"
+msgstr "ایمیل MGOS"
 
 #. js-lingui-explicit-id
 #: src/components/Logo.tsx
-msgid "Twenty logo"
-msgstr "نشان‌واره Twenty"
+msgid "MGOS logo"
+msgstr "نشان‌واره MGOS"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Twenty.com, Public Benefit Corporation"
-msgstr "Twenty.com، شرکت عام‌المنفعه"
+msgid "MGOS.com, Public Benefit Corporation"
+msgstr "MGOS.com، شرکت عام‌المنفعه"
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -383,18 +383,18 @@ msgstr "تأیید ایمیل"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's developer documentation"
-msgstr "از مستندات توسعه‌دهندگان Twenty دیدن کنید"
+msgid "Visit MGOS's developer documentation"
+msgstr "از مستندات توسعه‌دهندگان MGOS دیدن کنید"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's GitHub repository"
-msgstr "از مخزن GitHub مربوط به Twenty دیدن کنید"
+msgid "Visit MGOS's GitHub repository"
+msgstr "از مخزن GitHub مربوط به MGOS دیدن کنید"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's website"
-msgstr "از وب‌سایت Twenty دیدن کنید"
+msgid "Visit MGOS's website"
+msgstr "از وب‌سایت MGOS دیدن کنید"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
@@ -403,8 +403,8 @@ msgstr "ما هزینه‌های غافلگیرکننده را دوست ندار
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "We received a request to change the email address associated with your Twenty account. Click below to confirm this change."
-msgstr "درخواستی برای تغییر نشانی ایمیل مرتبط با حساب Twenty شما دریافت کردیم. برای تأیید این تغییر، زیر را کلیک کنید."
+msgid "We received a request to change the email address associated with your MGOS account. Click below to confirm this change."
+msgstr "درخواستی برای تغییر نشانی ایمیل مرتبط با حساب MGOS شما دریافت کردیم. برای تأیید این تغییر، زیر را کلیک کنید."
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
@@ -413,8 +413,8 @@ msgstr "وب‌سایت"
 
 #. js-lingui-explicit-id
 #: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "Twenty چیست؟"
+msgid "What is MGOS?"
+msgstr "MGOS چیست؟"
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx

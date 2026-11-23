@@ -90,8 +90,8 @@ msgstr "Potvrdite novu adresu e-pošte"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
-msgstr "Povežite se sa Twenty"
+msgid "Connect to MGOS"
+msgstr "Povežite se sa MGOS"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
@@ -165,8 +165,8 @@ msgstr "Ako to niste bili vi, obratite se administratoru svog radnog prostora i 
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
-msgid "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
-msgstr "Ako vam Twenty odgovara, sve je spremno — ne morate ništa da radite. Ako ipak nije pravi izbor, možete otkazati jednim klikom pre tog datuma i nećete biti terećeni."
+msgid "If MGOS is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
+msgstr "Ako vam MGOS odgovara, sve je spremno — ne morate ništa da radite. Ako ipak nije pravi izbor, možete otkazati jednim klikom pre tog datuma i nećete biti terećeni."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -190,8 +190,8 @@ msgstr "Ako ne uradite ništa, pauziraćemo vaš radni prostor i čuvaćemo vaš
 
 #. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
-msgid "If you'd ever like to give Twenty another try, you can start a fresh workspace in minutes — we'd love to have you back."
-msgstr "Ako ikada poželite da Twenty date još jednu šansu, možete za nekoliko minuta pokrenuti novi radni prostor — rado bismo vas ponovo videli."
+msgid "If you'd ever like to give MGOS another try, you can start a fresh workspace in minutes — we'd love to have you back."
+msgstr "Ako ikada poželite da MGOS date još jednu šansu, možete za nekoliko minuta pokrenuti novi radni prostor — rado bismo vas ponovo videli."
 
 #. js-lingui-explicit-id
 #: src/emails/server-admin-access-changed.email.tsx
@@ -210,8 +210,8 @@ msgstr "Njegovi podaci su uklonjeni i više se ne mogu povratiti."
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
-msgstr "Pridružite se svom timu na Twenty"
+msgid "Join your team on MGOS"
+msgstr "Pridružite se svom timu na MGOS"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-subscription-renewing.email.tsx
@@ -256,8 +256,8 @@ msgstr "Ponovo aktivirajte radni prostor"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Read Twenty's user guide"
-msgstr "Pročitajte Twenty korisničko uputstvo"
+msgid "Read MGOS's user guide"
+msgstr "Pročitajte MGOS korisničko uputstvo"
 
 #. js-lingui-explicit-id
 #: src/emails/password-reset-link.email.tsx
@@ -307,8 +307,8 @@ msgstr "Test imejl"
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
-msgstr "Hvala što ste registrovali nalog na Twenty! Pre nego što počnemo, potrebno je samo da potvrdimo da ste to vi. Kliknite ispod da biste verifikovali svoju imejl adresu."
+msgid "Thanks for registering for an account on MGOS! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
+msgstr "Hvala što ste registrovali nalog na MGOS! Pre nego što počnemo, potrebno je samo da potvrdimo da ste to vi. Kliknite ispod da biste verifikovali svoju imejl adresu."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-removed.email.tsx
@@ -337,18 +337,18 @@ msgstr "Da biste zadržali svoj radni prostor i sve što ste napravili, dodajte 
 
 #. js-lingui-explicit-id
 #: src/components/BaseHead.tsx
-msgid "Twenty email"
-msgstr "Twenty imejl"
+msgid "MGOS email"
+msgstr "MGOS imejl"
 
 #. js-lingui-explicit-id
 #: src/components/Logo.tsx
-msgid "Twenty logo"
-msgstr "Twenty logotip"
+msgid "MGOS logo"
+msgstr "MGOS logotip"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Twenty.com, Public Benefit Corporation"
-msgstr "Twenty.com, javna korporacija"
+msgid "MGOS.com, Public Benefit Corporation"
+msgstr "MGOS.com, javna korporacija"
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -383,18 +383,18 @@ msgstr "Potvrdite e-adresu"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's developer documentation"
-msgstr "Posetite Twenty dokumentaciju za programere"
+msgid "Visit MGOS's developer documentation"
+msgstr "Posetite MGOS dokumentaciju za programere"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's GitHub repository"
-msgstr "Posetite Twenty repozitorijum na GitHub-u"
+msgid "Visit MGOS's GitHub repository"
+msgstr "Posetite MGOS repozitorijum na GitHub-u"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's website"
-msgstr "Posetite Twenty vebsajt"
+msgid "Visit MGOS's website"
+msgstr "Posetite MGOS vebsajt"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
@@ -403,8 +403,8 @@ msgstr "Ne volimo neočekivane naplate, zato vam šaljemo prijateljsku najavu."
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "We received a request to change the email address associated with your Twenty account. Click below to confirm this change."
-msgstr "Primili smo zahtev za promenu imejl adrese povezane sa vašim Twenty nalogom. Kliknite ispod da biste potvrdili ovu promenu."
+msgid "We received a request to change the email address associated with your MGOS account. Click below to confirm this change."
+msgstr "Primili smo zahtev za promenu imejl adrese povezane sa vašim MGOS nalogom. Kliknite ispod da biste potvrdili ovu promenu."
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
@@ -413,8 +413,8 @@ msgstr "Vebsajt"
 
 #. js-lingui-explicit-id
 #: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "Šta je Twenty?"
+msgid "What is MGOS?"
+msgstr "Šta je MGOS?"
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx

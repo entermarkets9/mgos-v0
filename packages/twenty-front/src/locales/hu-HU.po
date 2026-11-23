@@ -1885,8 +1885,8 @@ msgstr "Hozzáférés meghatározott funkciókhoz"
 
 #. js-lingui-id: rkbqAv
 #: src/modules/settings/mcp/utils/mcpSetup.ts
-msgid "Access your Twenty workspace through MCP"
-msgstr "A Twenty munkaterület elérése MCP-n keresztül"
+msgid "Access your MGOS workspace through MCP"
+msgstr "A MGOS munkaterület elérése MCP-n keresztül"
 
 #. js-lingui-id: CrjDqe
 #: src/pages/auth/Authorize.tsx
@@ -2657,38 +2657,38 @@ msgstr "Csapattagok hozzáadása"
 
 #. js-lingui-id: FKGcEL
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server as a remote context server in Zed."
-msgstr "Adja hozzá a Twenty MCP szervert távoli kontextus szerverként a Zedben."
+msgid "Add the MGOS MCP server as a remote context server in Zed."
+msgstr "Adja hozzá a MGOS MCP szervert távoli kontextus szerverként a Zedben."
 
 #. js-lingui-id: iA2nHX
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Augment Code settings."
-msgstr "Adja hozzá a Twenty MCP szervert az Augment Code beállításaiban."
+msgid "Add the MGOS MCP server from Augment Code settings."
+msgstr "Adja hozzá a MGOS MCP szervert az Augment Code beállításaiban."
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
-msgstr "Adja hozzá a Twenty MCP szervert a Raycast MCP parancsaiból vagy beállításaiból."
+msgid "Add the MGOS MCP server from Raycast's MCP commands or settings."
+msgstr "Adja hozzá a MGOS MCP szervert a Raycast MCP parancsaiból vagy beállításaiból."
 
 #. js-lingui-id: j6G/yI
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server in Gemini CLI settings."
-msgstr "Adja hozzá a Twenty MCP szervert a Gemini CLI beállításaiban."
+msgid "Add the MGOS MCP server in Gemini CLI settings."
+msgstr "Adja hozzá a MGOS MCP szervert a Gemini CLI beállításaiban."
 
 #. js-lingui-id: /OyhlM
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server to your LibreChat configuration file."
-msgstr "Adja hozzá a Twenty MCP szervert a LibreChat konfigurációs fájljához."
+msgid "Add the MGOS MCP server to your LibreChat configuration file."
+msgstr "Adja hozzá a MGOS MCP szervert a LibreChat konfigurációs fájljához."
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
-msgstr "Adja hozzá a Twenty távoli szervert az LM Studio telepítési hivatkozásával."
+msgid "Add the MGOS remote server with LM Studio's install link."
+msgstr "Adja hozzá a MGOS távoli szervert az LM Studio telepítési hivatkozásával."
 
 #. js-lingui-id: BTFMKE
 #: src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx
-msgid "Add these records at your DNS provider. Twenty checks them automatically."
-msgstr "Adja hozzá ezeket a rekordokat a DNS-szolgáltatójánál. A Twenty automatikusan ellenőrzi őket."
+msgid "Add these records at your DNS provider. MGOS checks them automatically."
+msgstr "Adja hozzá ezeket a rekordokat a DNS-szolgáltatójánál. A MGOS automatikusan ellenőrzi őket."
 
 #. js-lingui-id: Bc+ryO
 #: src/modules/related-record-paths/components/SettingsObjectRelatedRecordPathPicker.tsx
@@ -2729,8 +2729,8 @@ msgstr "Kiváltó hozzáadása"
 
 #. js-lingui-id: 4D/zWv
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add Twenty as a Streamable HTTP extension in Goose."
-msgstr "Adja hozzá a Twenty-t Streamable HTTP-bővítményként a Goose-ban."
+msgid "Add MGOS as a Streamable HTTP extension in Goose."
+msgstr "Adja hozzá a MGOS-t Streamable HTTP-bővítményként a Goose-ban."
 
 #. js-lingui-id: XnwceV
 #: src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx
@@ -4194,8 +4194,8 @@ msgstr "Alkalmazások"
 
 #. js-lingui-id: q7rlQw
 #: src/pages/settings/applications/tabs/SettingsApplicationsAvailableTab.tsx
-msgid "Applications below have not been reviewed by Twenty. Use at your own risk."
-msgstr "Az alábbi alkalmazásokat a Twenty nem vizsgálta felül. Használja saját felelősségére."
+msgid "Applications below have not been reviewed by MGOS. Use at your own risk."
+msgstr "Az alábbi alkalmazásokat a MGOS nem vizsgálta felül. Használja saját felelősségére."
 
 #. js-lingui-id: p98xmP
 #: src/modules/settings/admin-panel/components/SettingsAdminWorkspaceUsageLimitsSection.tsx
@@ -4955,8 +4955,8 @@ msgstr "Az alkalmazás automatikus telepítése minden újonnan létrehozott mun
 
 #. js-lingui-id: MHsVk5
 #: src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx
-msgid "Automatically selected by Twenty for this mode."
-msgstr "A Twenty automatikusan kiválasztja ehhez a módhoz."
+msgid "Automatically selected by MGOS for this mode."
+msgstr "A MGOS automatikusan kiválasztja ehhez a módhoz."
 
 #. js-lingui-id: XFGV21
 #: src/pages/settings/applications/tabs/SettingsApplicationAutoUpdateSection.tsx
@@ -5265,7 +5265,7 @@ msgstr "Számlázási időszak"
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
 msgid "Billing portal session error. Please retry or contact Twenty team"
-msgstr "Számlázási portál munkamenet hiba. Kérem, próbálja újra, vagy vegye fel a kapcsolatot a Twenty csapatával"
+msgstr "Számlázási portál munkamenet hiba. Kérem, próbálja újra, vagy vegye fel a kapcsolatot a MGOS csapatával"
 
 #. js-lingui-id: H++SIW
 #: src/modules/settings/billing/hooks/useBillingSubscriptionChangeWording.ts
@@ -5576,8 +5576,8 @@ msgstr "készítette: {trimmedAuthor}"
 
 #. js-lingui-id: 8Pfllj
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
-msgid "By using Twenty, you agree to the"
-msgstr "A Twenty használatával elfogadja a"
+msgid "By using MGOS, you agree to the"
+msgstr "A MGOS használatával elfogadja a"
 
 #. js-lingui-id: 7l+dLC
 #: src/modules/marketplace/constants/PermissionFlagSummaryConfigs.ts
@@ -6198,8 +6198,8 @@ msgstr "Módosítások"
 
 #. js-lingui-id: OhVo1W
 #: src/modules/settings/applications/components/SettingsApplicationIframeMediaPermissionsSection.tsx
-msgid "Changes saved. Reload open Twenty tabs to apply the updated permissions. Reloading ends active calls and recordings."
-msgstr "A módosítások mentve. A frissített engedélyek alkalmazásához töltse újra a megnyitott Twenty lapokat. Az újratöltés megszakítja az aktív hívásokat és felvételeket."
+msgid "Changes saved. Reload open MGOS tabs to apply the updated permissions. Reloading ends active calls and recordings."
+msgstr "A módosítások mentve. A frissített engedélyek alkalmazásához töltse újra a megnyitott MGOS lapokat. Az újratöltés megszakítja az aktív hívásokat és felvételeket."
 
 #. js-lingui-id: oRH6Dq
 #: src/modules/metadata-error-handler/hooks/useMetadataErrorHandler.ts
@@ -6382,7 +6382,7 @@ msgstr "Naptár rendelkezésre állásának ellenőrzése…"
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 msgid "Checkout session error. Please retry or contact Twenty team"
-msgstr "Fizetési munkamenet hiba. Kérem, próbálja újra, vagy vegye fel a kapcsolatot a Twenty csapatával"
+msgstr "Fizetési munkamenet hiba. Kérem, próbálja újra, vagy vegye fel a kapcsolatot a MGOS csapatával"
 
 #. js-lingui-id: SviKkE
 #: src/modules/localization/hooks/useLocaleOptions.ts
@@ -6577,8 +6577,8 @@ msgstr "Válassza ki, mi történjen, amikor egy e-mail-címre kattint!"
 
 #. js-lingui-id: XDg9PA
 #: src/modules/settings/privacy/components/SettingsPrivacySharingWithTwenty.tsx
-msgid "Choose what Twenty can access to support you and improve the product."
-msgstr "Válassza ki, mihez férhet hozzá a Twenty, hogy támogathassa Önt és fejleszthesse a terméket."
+msgid "Choose what MGOS can access to support you and improve the product."
+msgstr "Válassza ki, mihez férhet hozzá a MGOS, hogy támogathassa Önt és fejleszthesse a terméket."
 
 #. js-lingui-id: Fi1ujk
 #: src/pages/settings/ai/components/SettingsAiBehaviorSection.tsx
@@ -7461,13 +7461,13 @@ msgstr "A távoli szerver konfigurálása az Amazon Q Developer MCP beállítás
 
 #. js-lingui-id: g1/8jH
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Configure the Twenty MCP server manually in Cascade."
-msgstr "A Twenty MCP szerver kézi konfigurálása a Cascade-ben."
+msgid "Configure the MGOS MCP server manually in Cascade."
+msgstr "A MGOS MCP szerver kézi konfigurálása a Cascade-ben."
 
 #. js-lingui-id: XiyvRh
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Configure the Twenty MCP server manually in Cline."
-msgstr "A Twenty MCP szerver kézi konfigurálása a Cline-ban."
+msgid "Configure the MGOS MCP server manually in Cline."
+msgstr "A MGOS MCP szerver kézi konfigurálása a Cline-ban."
 
 #. js-lingui-id: qA9AGQ
 #: src/modules/settings/domains/components/SettingsDomainRecords.tsx
@@ -8396,8 +8396,8 @@ msgstr "Számlálás alapja"
 
 #. js-lingui-id: EEqRLn
 #: src/modules/settings/workspace/components/ClickTrackingSwitch.tsx
-msgid "Count clicks by routing campaign links through Twenty before the original page."
-msgstr "A kattintások számlálásához a kampány hivatkozásait az eredeti oldal előtt a Twenty-n keresztül irányítsa."
+msgid "Count clicks by routing campaign links through MGOS before the original page."
+msgstr "A kattintások számlálásához a kampány hivatkozásait az eredeti oldal előtt a MGOS-n keresztül irányítsa."
 
 #. js-lingui-id: vQJINq
 #: src/modules/object-record/record-board/record-board-column/utils/getAggregateOperationLabel.ts
@@ -12511,7 +12511,7 @@ msgstr "Hiba a csomagváltás törlésekor."
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
 msgid "Error while ending trial period. Please contact Twenty team."
-msgstr "Hiba a próbaidőszak befejezésekor. Kérjük, vegye fel a kapcsolatot a Twenty csapatával."
+msgstr "Hiba a próbaidőszak befejezésekor. Kérjük, vegye fel a kapcsolatot a MGOS csapatával."
 
 #. js-lingui-id: 5g78zo
 #: src/pages/settings/members/SettingsWorkspaceMember.tsx
@@ -14867,8 +14867,8 @@ msgstr "További kreditek vásárlása"
 
 #. js-lingui-id: LBG67E
 #: src/modules/settings/experience/components/SettingsExperienceNotificationsSection.tsx
-msgid "Get notified of new inbox messages on this device when you are not looking at Twenty. Your choices below apply to every device"
-msgstr "Értesítést kaphat az új bejövő üzenetekről ezen az eszközön, amikor nem a Twenty alkalmazást nézi. Az alábbi beállítások minden eszközre érvényesek"
+msgid "Get notified of new inbox messages on this device when you are not looking at MGOS. Your choices below apply to every device"
+msgstr "Értesítést kaphat az új bejövő üzenetekről ezen az eszközön, amikor nem a MGOS alkalmazást nézi. Az alábbi beállítások minden eszközre érvényesek"
 
 #. js-lingui-id: AvbPI1
 #: src/modules/settings/enterprise/components/EnterprisePlanModal.tsx
@@ -15417,8 +15417,8 @@ msgstr "Súgóközpont"
 
 #. js-lingui-id: GY8MUv
 #: src/modules/settings/privacy/components/SettingsPrivacySharingWithTwenty.tsx
-msgid "Help improve Twenty"
-msgstr "Segítsen a Twenty fejlesztésében"
+msgid "Help improve MGOS"
+msgstr "Segítsen a MGOS fejlesztésében"
 
 #. js-lingui-id: tIb8bD
 #: src/modules/ai-chat/constants/AiChatAssistantAvatarShapeLabels.ts
@@ -15552,8 +15552,8 @@ msgstr "Kiemelt idézet"
 
 #. js-lingui-id: 1ETc0T
 #: src/pages/settings/community/SettingsCommunity.tsx
-msgid "Hire a partner to help you implement and customize Twenty."
-msgstr "Fogadj fel egy partnert, hogy segítsen a Twenty bevezetésében és testreszabásában."
+msgid "Hire a partner to help you implement and customize MGOS."
+msgstr "Fogadj fel egy partnert, hogy segítsen a MGOS bevezetésében és testreszabásában."
 
 #. js-lingui-id: i0qMbr
 #: src/modules/ai-chat/instance/components/AiChatNewThreadPageActions.tsx
@@ -16061,7 +16061,7 @@ msgstr "Ismétlődő megbeszélések importálása 90 nappal előre"
 
 #. js-lingui-id: LHHO6e
 #: src/modules/getting-started/constants/GettingStartedImportPrompt.ts
-msgid "Import the attached files into Twenty. Work out which records they contain and shape the workspace around them: reuse the objects and fields that fit, add the ones that are missing, then create the records and link them together."
+msgid "Import the attached files into MGOS. Work out which records they contain and shape the workspace around them: reuse the objects and fields that fit, add the ones that are missing, then create the records and link them together."
 msgstr "Importálja a csatolt fájlokat a Twentybe. Állapítsa meg, milyen rekordokat tartalmaznak, és alakítsa ezek köré a munkaterületet: használja újra a megfelelő objektumokat és mezőket, adja hozzá a hiányzókat, majd hozza létre a rekordokat, és kapcsolja össze őket."
 
 #. js-lingui-id: vXTVX9
@@ -17084,7 +17084,7 @@ msgstr "E-mailjeim megnyitásának és a kattintásaimnak a nyomon követése ma
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 msgid "Keep Twenty"
-msgstr "Twenty megtartása"
+msgstr "MGOS megtartása"
 
 #. js-lingui-id: 7sMeHQ
 #: src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/KeyValuePairInput.tsx
@@ -19298,7 +19298,7 @@ msgstr "Modellszint · engedélyezett modellre vált"
 
 #. js-lingui-id: iaurWj
 #: src/pages/settings/ai/components/SettingsAiModelsTab.tsx
-msgid "Model used when you chat with Twenty"
+msgid "Model used when you chat with MGOS"
 msgstr "A Twentyvel való csevegéskor használt modell"
 
 #. js-lingui-id: //nm2/
@@ -19893,8 +19893,8 @@ msgstr "Bejelentkezéskor soha nem jelenik meg. A tagok a munkaterület URL-cím
 
 #. js-lingui-id: 3JnA+j
 #: src/modules/settings/privacy/components/SettingsPrivacySafeguards.tsx
-msgid "Never, by Twenty or providers"
-msgstr "Soha, sem a Twenty, sem a szolgáltatók által"
+msgid "Never, by MGOS or providers"
+msgstr "Soha, sem a MGOS, sem a szolgáltatók által"
 
 #. js-lingui-id: isRobC
 #: src/modules/ai-chat/messages/components/AiChatMessage.tsx
@@ -22009,8 +22009,8 @@ msgstr "Futtatásonként egy"
 
 #. js-lingui-id: 1WZTTl
 #: src/pages/settings/enterprise/SettingsEnterprise.tsx
-msgid "One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats."
-msgstr "Egy előfizetés egy szervezeti kulcsot biztosít, amely egy éles példányt és egy lehetséges staging- vagy tesztpéldányt működtet. Staging- vagy tesztkörnyezet futtatásához telepítse a Twenty-t egy második szerverre, aktiválja ugyanazzal a szervezeti kulccsal, majd regisztrálja azt a szervert fejlesztői példányként. A fejlesztői példányok további számlázás nélkül engedélyezik a prémium funkciókat, és nem számítanak bele az éles helyek számába."
+msgid "One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install MGOS on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats."
+msgstr "Egy előfizetés egy szervezeti kulcsot biztosít, amely egy éles példányt és egy lehetséges staging- vagy tesztpéldányt működtet. Staging- vagy tesztkörnyezet futtatásához telepítse a MGOS-t egy második szerverre, aktiválja ugyanazzal a szervezeti kulccsal, majd regisztrálja azt a szervert fejlesztői példányként. A fejlesztői példányok további számlázás nélkül engedélyezik a prémium funkciókat, és nem számítanak bele az éles helyek számába."
 
 #. js-lingui-id: YO4da4
 #: src/modules/settings/admin-panel/constants/BillingArrangementStatusTags.ts
@@ -22206,8 +22206,8 @@ msgstr "Beszélgetések megnyitása itt"
 
 #. js-lingui-id: n0vVgf
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Open Claude with the Twenty connector name and MCP URL prefilled."
-msgstr "Nyissa meg a Claude-ot a Twenty connector nevével és az MCP URL-lel előre kitöltve."
+msgid "Open Claude with the MGOS connector name and MCP URL prefilled."
+msgstr "Nyissa meg a Claude-ot a MGOS connector nevével és az MCP URL-lel előre kitöltve."
 
 #. js-lingui-id: N4OQXf
 #: src/modules/advanced-text-editor/components/AdvancedTextEditorTableHandleMenu.tsx
@@ -22221,8 +22221,8 @@ msgstr "Beszélgetés megnyitása"
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
-msgstr "Nyissa meg a Cursor MCP telepítőjét a Twenty távoli szerver konfigurációjával."
+msgid "Open Cursor's MCP installer with the MGOS remote server config."
+msgstr "Nyissa meg a Cursor MCP telepítőjét a MGOS távoli szerver konfigurációjával."
 
 #. js-lingui-id: JvSHIq
 #: src/modules/getting-started/components/GettingStartedSidebarCard.tsx
@@ -22303,8 +22303,8 @@ msgstr "Rekordok megnyitása egy külön oldalon"
 
 #. js-lingui-id: q170S2
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Open Replit with the Twenty remote server config."
-msgstr "Nyissa meg a Replitet a Twenty távoli szerver konfigurációjával."
+msgid "Open Replit with the MGOS remote server config."
+msgstr "Nyissa meg a Replitet a MGOS távoli szerver konfigurációjával."
 
 #. js-lingui-id: iMBVhp
 #: src/modules/advanced-text-editor/components/AdvancedTextEditorTableHandleMenu.tsx
@@ -22333,8 +22333,8 @@ msgstr "Oldalsó panel megnyitása"
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
-msgstr "Nyissa meg a Twenty hivatalos ChatGPT integrációját a munkaterületéhez."
+msgid "Open MGOS's official ChatGPT integration for your workspace."
+msgstr "Nyissa meg a MGOS hivatalos ChatGPT integrációját a munkaterületéhez."
 
 #. js-lingui-id: tirDue
 #: src/modules/log-console/constants/LogConsoleSources.tsx
@@ -22872,8 +22872,8 @@ msgstr "Oldal neve"
 
 #. js-lingui-id: NRvxzv
 #: src/pages/not-found/NotFound.tsx
-msgid "Page Not Found | Twenty"
-msgstr "Az oldal nem található | Twenty"
+msgid "Page Not Found | MGOS"
+msgstr "Az oldal nem található | MGOS"
 
 #. js-lingui-id: QbrUIo
 #: src/modules/log-console/constants/LogConsoleSources.tsx
@@ -24771,8 +24771,8 @@ msgstr "Fejlesztői példányként regisztrálva. Ez a példány nem kerül kül
 
 #. js-lingui-id: 5k0oOn
 #: src/modules/applications/components/AuthorizeClientIdentityNotice.tsx
-msgid "Registered with Twenty as the official {appName}"
-msgstr "A Twenty hivatalos {appName} alkalmazásaként regisztrálva"
+msgid "Registered with MGOS as the official {appName}"
+msgstr "A MGOS hivatalos {appName} alkalmazásaként regisztrálva"
 
 #. js-lingui-id: 1t/NnN
 #: src/modules/ai-chat/tool-calls/components/AiChatToolCallApprovalArgumentsCard.tsx
@@ -27754,8 +27754,8 @@ msgstr "Naptáresemények megosztása a csatornák között"
 
 #. js-lingui-id: S1jlER
 #: src/modules/settings/privacy/components/SettingsPrivacySharingWithTwenty.tsx
-msgid "Share session replays and AI conversations to help us improve Twenty"
-msgstr "Ossza meg a munkamenet-visszajátszásokat és az MI-beszélgetéseket, hogy segítsen nekünk a Twenty fejlesztésében"
+msgid "Share session replays and AI conversations to help us improve MGOS"
+msgstr "Ossza meg a munkamenet-visszajátszásokat és az MI-beszélgetéseket, hogy segítsen nekünk a MGOS fejlesztésében"
 
 #. js-lingui-id: w+9mVo
 #: src/modules/settings/two-factor-authentication/components/TwoFactorAuthenticationRecoveryCodeDisplay.tsx
@@ -27815,7 +27815,7 @@ msgstr "Nem sikerült betölteni a megosztási beállításokat."
 
 #. js-lingui-id: K8Q+iX
 #: src/modules/settings/privacy/components/SettingsPrivacySharingWithTwenty.tsx
-msgid "Sharing with Twenty"
+msgid "Sharing with MGOS"
 msgstr "Megosztás a Twentyvel"
 
 #. js-lingui-id: PGetcZ
@@ -29082,7 +29082,7 @@ msgstr "Az előfizetés aktiválva."
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 msgid "Subscription error. Please retry or contact Twenty team"
-msgstr "Előfizetési hiba. Kérem, próbálja újra, vagy vegye fel a kapcsolatot a Twenty csapatával"
+msgstr "Előfizetési hiba. Kérem, próbálja újra, vagy vegye fel a kapcsolatot a MGOS csapatával"
 
 #. js-lingui-id: kSY/ji
 #: src/modules/settings/billing/hooks/useApplyBillingSubscriptionChange.ts
@@ -29763,8 +29763,8 @@ msgstr "Az AWS-régió a Bedrockhoz"
 
 #. js-lingui-id: bEyeZg
 #: src/modules/applications/utils/getStandardApplicationDescription.ts
-msgid "The base data model every Twenty workspace runs on."
-msgstr "Az alapvető adatmodell, amelyen minden Twenty-munkaterület működik."
+msgid "The base data model every MGOS workspace runs on."
+msgstr "Az alapvető adatmodell, amelyen minden MGOS-munkaterület működik."
 
 #. js-lingui-id: 832YJ9
 #: src/modules/validation-rules/constants/ValidationRuleKeywords.ts
@@ -29794,7 +29794,7 @@ msgstr "A kód lehetővé teszi, hogy {memberName} egyszer bejelentkezzen ebbe a
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
 msgid "The code of the Twenty partner who referred you"
-msgstr "Az Önt ajánló Twenty-partner kódja"
+msgstr "Az Önt ajánló MGOS-partner kódja"
 
 #. js-lingui-id: aXzQ65
 #: src/modules/ai-chat/messages/components/AiChatCompactionIndicator.tsx
@@ -29976,7 +29976,7 @@ msgstr "Az Ön által keresett oldal vagy eltűnt, vagy soha nem is létezett. S
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
 msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
-msgstr "A PDF-et a Twenty előre aláírta, és az Ön jogi entitásával és felhatalmazott aláírójával kerül végrehajtásra."
+msgstr "A PDF-et a MGOS előre aláírta, és az Ön jogi entitásával és felhatalmazott aláírójával kerül végrehajtásra."
 
 #. js-lingui-id: iz994T
 #: src/modules/ai-chat/tool-calls/components/AiChatApprovalMergeReview.tsx
@@ -30295,8 +30295,8 @@ msgstr "Ez az ügynök megosztja a szerepkörét más tagokkal vagy ügynökökk
 
 #. js-lingui-id: Debhph
 #: src/modules/applications/components/AuthorizeClientIdentityNotice.tsx
-msgid "This app calls itself {appName}, but Twenty could not confirm it is. Only continue if you started this connection from {appName}."
-msgstr "Ez az alkalmazás {appName} néven azonosítja magát, de a Twenty ezt nem tudta megerősíteni. Csak akkor folytassa, ha ezt a kapcsolatot a(z) {appName} alkalmazásból indította el."
+msgid "This app calls itself {appName}, but MGOS could not confirm it is. Only continue if you started this connection from {appName}."
+msgstr "Ez az alkalmazás {appName} néven azonosítja magát, de a MGOS ezt nem tudta megerősíteni. Csak akkor folytassa, ha ezt a kapcsolatot a(z) {appName} alkalmazásból indította el."
 
 #. js-lingui-id: 3jroCi
 #: src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationMonitoring.tsx
@@ -30352,8 +30352,8 @@ msgstr "Ez az alkalmazás nincs telepítve erre a munkaterületre. Lehet, hogy e
 #. js-lingui-id: +EhakQ
 #: src/modules/marketplace/components/SettingsApplicationInstallPermissionValidationModal.tsx
 #: src/pages/settings/applications/SettingsAvailableApplicationDetails.tsx
-msgid "This application is not listed on the marketplace and has not been reviewed by Twenty. Use at your own risk."
-msgstr "Ez az alkalmazás nincs listázva a piactéren, és a Twenty nem ellenőrizte. Használja saját felelősségére."
+msgid "This application is not listed on the marketplace and has not been reviewed by MGOS. Use at your own risk."
+msgstr "Ez az alkalmazás nincs listázva a piactéren, és a MGOS nem ellenőrizte. Használja saját felelősségére."
 
 #. js-lingui-id: X7w5n6
 #: src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx
@@ -31528,34 +31528,34 @@ msgstr "Türkiz"
 
 #. js-lingui-id: 8pmRvi
 #: src/pages/onboarding/SyncEmails.tsx
-msgid "Twenty adds the people you email and meet, and keeps them up to date without manual data entry."
-msgstr "A Twenty hozzáadja azokat az embereket, akikkel e-mailt vált és találkozik, és manuális adatbevitel nélkül naprakészen tartja őket."
+msgid "MGOS adds the people you email and meet, and keeps them up to date without manual data entry."
+msgstr "A MGOS hozzáadja azokat az embereket, akikkel e-mailt vált és találkozik, és manuális adatbevitel nélkül naprakészen tartja őket."
 
 #. js-lingui-id: UXtQTZ
 #: src/modules/settings/privacy/components/SettingsPrivacySafeguards.tsx
-msgid "Twenty Cloud"
-msgstr "Twenty Cloud"
+msgid "MGOS Cloud"
+msgstr "MGOS Cloud"
 
 #. js-lingui-id: JnaRPe
 #: src/modules/getting-started/components/step-preview/GettingStartedImportPreview.tsx
 #: src/modules/spreadsheet-import/steps/components/MatchColumnsStep/components/ColumnGrid.tsx
-msgid "Twenty fields"
-msgstr "Twenty mezők"
+msgid "MGOS fields"
+msgstr "MGOS mezők"
 
 #. js-lingui-id: pNo8xt
 #: src/pages/settings/ai/components/SettingsAiModelsTab.tsx
-msgid "Twenty fills each level with the best model that meets your requirements"
-msgstr "A Twenty minden szintet az igényeinek megfelelő legjobb modellel tölt fel"
+msgid "MGOS fills each level with the best model that meets your requirements"
+msgstr "A MGOS minden szintet az igényeinek megfelelő legjobb modellel tölt fel"
 
 #. js-lingui-id: WGKXUo
 #: src/modules/getting-started/components/GettingStartedBookCallSummary.tsx
-msgid "Twenty team"
-msgstr "Twenty csapata"
+msgid "MGOS team"
+msgstr "MGOS csapata"
 
 #. js-lingui-id: qUadjH
 #: src/modules/onboarding/components/OnboardingInviteTeamSkipDialog.tsx
-msgid "Twenty works better with your team"
-msgstr "A Twenty jobban működik a csapatával"
+msgid "MGOS works better with your team"
+msgstr "A MGOS jobban működik a csapatával"
 
 #. js-lingui-id: YIjS4q
 #: src/modules/ai/hooks/useAgentModelCapabilities.ts
@@ -33779,7 +33779,7 @@ msgstr ""
 
 #. js-lingui-id: nTuObL
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
+msgid "Welcome to MGOS"
 msgstr "Üdvözöljük a Twentyben"
 
 #. js-lingui-id: t8ZvkC

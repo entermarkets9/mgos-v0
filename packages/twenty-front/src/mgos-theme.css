@@ -1,0 +1,59 @@
+/* MGOS brand theme — monochrome accent.
+ * Overrides Twenty's --t-accent-* ramp only; everything else inherits.
+ * Loaded after twenty-ui/theme-*.css so these win by source order.
+ * Palette derived from the MGOS logo (#D9D9D9 tile / #363636 glyph).
+ */
+
+/* ---------- LIGHT ---------- */
+:root,
+.light,
+html.light {
+  --t-accent-primary: #e8e8e8;
+  --t-accent-secondary: #e8e8e8;
+  --t-accent-tertiary: #f0f0f0;
+  --t-accent-quaternary: #f7f7f7;
+  --t-accent-accent3570: #6b6b6b;
+  --t-accent-accent4060: #6b6b6b;
+  --t-accent-accent1: #fafafa;
+  --t-accent-accent2: #f5f5f5;
+  --t-accent-accent3: #ebebeb;
+  --t-accent-accent4: #e0e0e0;
+  --t-accent-accent5: #d6d6d6;
+  --t-accent-accent6: #c7c7c7;
+  --t-accent-accent7: #a8a8a8;
+  --t-accent-accent8: #8a8a8a;
+  --t-accent-accent9: #4d4d4d;
+  --t-accent-accent10: #3d3d3d;
+  --t-accent-accent11: #363636;
+  --t-accent-accent12: #1a1a1a;
+
+  /* blue-aliased surfaces that the accent legitimately drives */
+  --t-border-color-blue: #8a8a8a;
+  --t-background-transparent-blue: #36363614;
+}
+
+/* ---------- DARK ---------- */
+.dark,
+html.dark {
+  --t-accent-primary: #2a2a2a;
+  --t-accent-secondary: #2a2a2a;
+  --t-accent-tertiary: #1f1f1f;
+  --t-accent-quaternary: #171717;
+  --t-accent-accent3570: #9a9a9a;
+  --t-accent-accent4060: #9a9a9a;
+  --t-accent-accent1: #0f0f0f;
+  --t-accent-accent2: #171717;
+  --t-accent-accent3: #1f1f1f;
+  --t-accent-accent4: #262626;
+  --t-accent-accent5: #2e2e2e;
+  --t-accent-accent6: #3d3d3d;
+  --t-accent-accent7: #6b6b6b;
+  --t-accent-accent8: #9a9a9a;
+  --t-accent-accent9: #d4d4d4;
+  --t-accent-accent10: #e0e0e0;
+  --t-accent-accent11: #ebebeb;
+  --t-accent-accent12: #f5f5f5;
+
+  --t-border-color-blue: #6b6b6b;
+  --t-background-transparent-blue: #d9d9d914;
+}

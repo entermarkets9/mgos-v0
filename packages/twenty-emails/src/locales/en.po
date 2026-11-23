@@ -85,8 +85,8 @@ msgstr "Confirm your new email address"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
-msgstr "Connect to Twenty"
+msgid "Connect to MGOS"
+msgstr "Connect to MGOS"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
@@ -160,8 +160,8 @@ msgstr "If this was not you, contact your workspace administrator and change you
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
-msgid "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
-msgstr "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
+msgid "If MGOS is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
+msgstr "If MGOS is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -185,8 +185,8 @@ msgstr "If you do nothing, we'll pause your workspace and keep your data safe fo
 
 #. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
-msgid "If you'd ever like to give Twenty another try, you can start a fresh workspace in minutes — we'd love to have you back."
-msgstr "If you'd ever like to give Twenty another try, you can start a fresh workspace in minutes — we'd love to have you back."
+msgid "If you'd ever like to give MGOS another try, you can start a fresh workspace in minutes — we'd love to have you back."
+msgstr "If you'd ever like to give MGOS another try, you can start a fresh workspace in minutes — we'd love to have you back."
 
 #. js-lingui-explicit-id
 #: src/emails/server-admin-access-changed.email.tsx
@@ -205,8 +205,8 @@ msgstr "Its data has been removed and can no longer be recovered."
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
-msgstr "Join your team on Twenty"
+msgid "Join your team on MGOS"
+msgstr "Join your team on MGOS"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-subscription-renewing.email.tsx
@@ -251,8 +251,8 @@ msgstr "Reactivate workspace"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Read Twenty's user guide"
-msgstr "Read Twenty's user guide"
+msgid "Read MGOS's user guide"
+msgstr "Read MGOS's user guide"
 
 #. js-lingui-explicit-id
 #: src/emails/password-reset-link.email.tsx
@@ -302,8 +302,8 @@ msgstr "Test email"
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
-msgstr "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
+msgid "Thanks for registering for an account on MGOS! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
+msgstr "Thanks for registering for an account on MGOS! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-removed.email.tsx
@@ -332,18 +332,18 @@ msgstr "To keep your workspace and everything you've built, add a payment method
 
 #. js-lingui-explicit-id
 #: src/components/BaseHead.tsx
-msgid "Twenty email"
-msgstr "Twenty email"
+msgid "MGOS email"
+msgstr "MGOS email"
 
 #. js-lingui-explicit-id
 #: src/components/Logo.tsx
-msgid "Twenty logo"
-msgstr "Twenty logo"
+msgid "MGOS logo"
+msgstr "MGOS logo"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Twenty.com, Public Benefit Corporation"
-msgstr "Twenty.com, Public Benefit Corporation"
+msgid "MGOS.com, Public Benefit Corporation"
+msgstr "MGOS.com, Public Benefit Corporation"
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -378,18 +378,18 @@ msgstr "Verify Email"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's developer documentation"
-msgstr "Visit Twenty's developer documentation"
+msgid "Visit MGOS's developer documentation"
+msgstr "Visit MGOS's developer documentation"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's GitHub repository"
-msgstr "Visit Twenty's GitHub repository"
+msgid "Visit MGOS's GitHub repository"
+msgstr "Visit MGOS's GitHub repository"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's website"
-msgstr "Visit Twenty's website"
+msgid "Visit MGOS's website"
+msgstr "Visit MGOS's website"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
@@ -398,8 +398,8 @@ msgstr "We don't like surprise charges, so here's a friendly heads up."
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "We received a request to change the email address associated with your Twenty account. Click below to confirm this change."
-msgstr "We received a request to change the email address associated with your Twenty account. Click below to confirm this change."
+msgid "We received a request to change the email address associated with your MGOS account. Click below to confirm this change."
+msgstr "We received a request to change the email address associated with your MGOS account. Click below to confirm this change."
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
@@ -408,8 +408,8 @@ msgstr "Website"
 
 #. js-lingui-explicit-id
 #: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "What is Twenty?"
+msgid "What is MGOS?"
+msgstr "What is MGOS?"
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx

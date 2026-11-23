@@ -85,7 +85,7 @@ export const GettingStartedBookCallSummary = () => {
       <StyledHost>
         <StyledTwentyLogo src="/images/integrations/twenty-logo.svg" alt="" />
         <Text size="sm" weight="medium" color="secondary">
-          {t`Twenty team`}
+          {t`MGOS team`}
         </Text>
       </StyledHost>
       <StyledList>

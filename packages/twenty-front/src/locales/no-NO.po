@@ -1885,8 +1885,8 @@ msgstr "Tilgang til bestemte funksjoner"
 
 #. js-lingui-id: rkbqAv
 #: src/modules/settings/mcp/utils/mcpSetup.ts
-msgid "Access your Twenty workspace through MCP"
-msgstr "Få tilgang til Twenty-arbeidsområdet ditt via MCP"
+msgid "Access your MGOS workspace through MCP"
+msgstr "Få tilgang til MGOS-arbeidsområdet ditt via MCP"
 
 #. js-lingui-id: CrjDqe
 #: src/pages/auth/Authorize.tsx
@@ -2657,38 +2657,38 @@ msgstr "Legg til teammedlemmer"
 
 #. js-lingui-id: FKGcEL
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server as a remote context server in Zed."
-msgstr "Legg til Twenty MCP-serveren som ekstern kontekstserver i Zed."
+msgid "Add the MGOS MCP server as a remote context server in Zed."
+msgstr "Legg til MGOS MCP-serveren som ekstern kontekstserver i Zed."
 
 #. js-lingui-id: iA2nHX
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Augment Code settings."
-msgstr "Legg til Twenty MCP-serveren fra Augment Code-innstillingene."
+msgid "Add the MGOS MCP server from Augment Code settings."
+msgstr "Legg til MGOS MCP-serveren fra Augment Code-innstillingene."
 
 #. js-lingui-id: l+NzAk
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server from Raycast's MCP commands or settings."
-msgstr "Legg til Twenty MCP-serveren fra Raycasts MCP-kommandoer eller -innstillinger."
+msgid "Add the MGOS MCP server from Raycast's MCP commands or settings."
+msgstr "Legg til MGOS MCP-serveren fra Raycasts MCP-kommandoer eller -innstillinger."
 
 #. js-lingui-id: j6G/yI
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server in Gemini CLI settings."
-msgstr "Legg til Twenty MCP-serveren i innstillingene for Gemini CLI."
+msgid "Add the MGOS MCP server in Gemini CLI settings."
+msgstr "Legg til MGOS MCP-serveren i innstillingene for Gemini CLI."
 
 #. js-lingui-id: /OyhlM
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty MCP server to your LibreChat configuration file."
-msgstr "Legg til Twenty MCP-serveren i LibreChat-konfigurasjonsfilen din."
+msgid "Add the MGOS MCP server to your LibreChat configuration file."
+msgstr "Legg til MGOS MCP-serveren i LibreChat-konfigurasjonsfilen din."
 
 #. js-lingui-id: K0DXoj
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add the Twenty remote server with LM Studio's install link."
-msgstr "Legg til Twenty-fjernserveren med LM Studios installeringslenke."
+msgid "Add the MGOS remote server with LM Studio's install link."
+msgstr "Legg til MGOS-fjernserveren med LM Studios installeringslenke."
 
 #. js-lingui-id: BTFMKE
 #: src/pages/settings/communications/SettingsWorkspaceCommunicationGroupChannelDetail.tsx
-msgid "Add these records at your DNS provider. Twenty checks them automatically."
-msgstr "Legg til disse postene hos DNS-leverandøren din. Twenty kontrollerer dem automatisk."
+msgid "Add these records at your DNS provider. MGOS checks them automatically."
+msgstr "Legg til disse postene hos DNS-leverandøren din. MGOS kontrollerer dem automatisk."
 
 #. js-lingui-id: Bc+ryO
 #: src/modules/related-record-paths/components/SettingsObjectRelatedRecordPathPicker.tsx
@@ -2729,8 +2729,8 @@ msgstr "Legg til en utløser"
 
 #. js-lingui-id: 4D/zWv
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Add Twenty as a Streamable HTTP extension in Goose."
-msgstr "Legg til Twenty som en Streamable HTTP-utvidelse i Goose."
+msgid "Add MGOS as a Streamable HTTP extension in Goose."
+msgstr "Legg til MGOS som en Streamable HTTP-utvidelse i Goose."
 
 #. js-lingui-id: XnwceV
 #: src/pages/settings/applications/components/SettingsApplicationRegistrationRedirectURIsInput.tsx
@@ -4194,8 +4194,8 @@ msgstr "Applikasjoner"
 
 #. js-lingui-id: q7rlQw
 #: src/pages/settings/applications/tabs/SettingsApplicationsAvailableTab.tsx
-msgid "Applications below have not been reviewed by Twenty. Use at your own risk."
-msgstr "Applikasjonene nedenfor har ikke blitt gjennomgått av Twenty. Bruk på eget ansvar."
+msgid "Applications below have not been reviewed by MGOS. Use at your own risk."
+msgstr "Applikasjonene nedenfor har ikke blitt gjennomgått av MGOS. Bruk på eget ansvar."
 
 #. js-lingui-id: p98xmP
 #: src/modules/settings/admin-panel/components/SettingsAdminWorkspaceUsageLimitsSection.tsx
@@ -4955,8 +4955,8 @@ msgstr "Installer denne appen automatisk på alle nyopprettede arbeidsområder"
 
 #. js-lingui-id: MHsVk5
 #: src/pages/settings/ai/components/SettingsAiModelTiersPreview.tsx
-msgid "Automatically selected by Twenty for this mode."
-msgstr "Automatisk valgt av Twenty for denne modusen."
+msgid "Automatically selected by MGOS for this mode."
+msgstr "Automatisk valgt av MGOS for denne modusen."
 
 #. js-lingui-id: XFGV21
 #: src/pages/settings/applications/tabs/SettingsApplicationAutoUpdateSection.tsx
@@ -5265,7 +5265,7 @@ msgstr "Faktureringsperiode"
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
 msgid "Billing portal session error. Please retry or contact Twenty team"
-msgstr "Feil ved faktureringsportalsesjon. Prøv igjen eller kontakt Twenty-teamet"
+msgstr "Feil ved faktureringsportalsesjon. Prøv igjen eller kontakt MGOS-teamet"
 
 #. js-lingui-id: H++SIW
 #: src/modules/settings/billing/hooks/useBillingSubscriptionChangeWording.ts
@@ -5576,8 +5576,8 @@ msgstr "av {trimmedAuthor}"
 
 #. js-lingui-id: 8Pfllj
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
-msgid "By using Twenty, you agree to the"
-msgstr "Ved å bruke Twenty, samtykker du til"
+msgid "By using MGOS, you agree to the"
+msgstr "Ved å bruke MGOS, samtykker du til"
 
 #. js-lingui-id: 7l+dLC
 #: src/modules/marketplace/constants/PermissionFlagSummaryConfigs.ts
@@ -6198,8 +6198,8 @@ msgstr "Endringer"
 
 #. js-lingui-id: OhVo1W
 #: src/modules/settings/applications/components/SettingsApplicationIframeMediaPermissionsSection.tsx
-msgid "Changes saved. Reload open Twenty tabs to apply the updated permissions. Reloading ends active calls and recordings."
-msgstr "Endringene er lagret. Last inn åpne Twenty-faner på nytt for å ta i bruk de oppdaterte tillatelsene. Å laste inn på nytt avslutter aktive samtaler og opptak."
+msgid "Changes saved. Reload open MGOS tabs to apply the updated permissions. Reloading ends active calls and recordings."
+msgstr "Endringene er lagret. Last inn åpne MGOS-faner på nytt for å ta i bruk de oppdaterte tillatelsene. Å laste inn på nytt avslutter aktive samtaler og opptak."
 
 #. js-lingui-id: oRH6Dq
 #: src/modules/metadata-error-handler/hooks/useMetadataErrorHandler.ts
@@ -6382,7 +6382,7 @@ msgstr "Kontrollerer kalendertilgjengelighet…"
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 msgid "Checkout session error. Please retry or contact Twenty team"
-msgstr "Feil ved utsjekkingsøkt. Prøv igjen eller kontakt Twenty-teamet"
+msgstr "Feil ved utsjekkingsøkt. Prøv igjen eller kontakt MGOS-teamet"
 
 #. js-lingui-id: SviKkE
 #: src/modules/localization/hooks/useLocaleOptions.ts
@@ -6577,8 +6577,8 @@ msgstr "Velg hva som skjer når du klikker på en e-postadresse"
 
 #. js-lingui-id: XDg9PA
 #: src/modules/settings/privacy/components/SettingsPrivacySharingWithTwenty.tsx
-msgid "Choose what Twenty can access to support you and improve the product."
-msgstr "Velg hva Twenty kan få tilgang til for å hjelpe deg og forbedre produktet."
+msgid "Choose what MGOS can access to support you and improve the product."
+msgstr "Velg hva MGOS kan få tilgang til for å hjelpe deg og forbedre produktet."
 
 #. js-lingui-id: Fi1ujk
 #: src/pages/settings/ai/components/SettingsAiBehaviorSection.tsx
@@ -7461,13 +7461,13 @@ msgstr "Konfigurer den eksterne serveren i MCP-innstillingene til Amazon Q Devel
 
 #. js-lingui-id: g1/8jH
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Configure the Twenty MCP server manually in Cascade."
-msgstr "Konfigurer Twenty MCP-serveren manuelt i Cascade."
+msgid "Configure the MGOS MCP server manually in Cascade."
+msgstr "Konfigurer MGOS MCP-serveren manuelt i Cascade."
 
 #. js-lingui-id: XiyvRh
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Configure the Twenty MCP server manually in Cline."
-msgstr "Konfigurer Twenty MCP-serveren manuelt i Cline."
+msgid "Configure the MGOS MCP server manually in Cline."
+msgstr "Konfigurer MGOS MCP-serveren manuelt i Cline."
 
 #. js-lingui-id: qA9AGQ
 #: src/modules/settings/domains/components/SettingsDomainRecords.tsx
@@ -8396,8 +8396,8 @@ msgstr "Tell etter"
 
 #. js-lingui-id: EEqRLn
 #: src/modules/settings/workspace/components/ClickTrackingSwitch.tsx
-msgid "Count clicks by routing campaign links through Twenty before the original page."
-msgstr "Tell klikk ved å rute kampanjelenker gjennom Twenty før den opprinnelige siden."
+msgid "Count clicks by routing campaign links through MGOS before the original page."
+msgstr "Tell klikk ved å rute kampanjelenker gjennom MGOS før den opprinnelige siden."
 
 #. js-lingui-id: vQJINq
 #: src/modules/object-record/record-board/record-board-column/utils/getAggregateOperationLabel.ts
@@ -12511,7 +12511,7 @@ msgstr "Feil under avbrytelse av planbytte."
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
 msgid "Error while ending trial period. Please contact Twenty team."
-msgstr "Feil ved avslutning av prøveperiode. Vennligst kontakt Twenty-teamet."
+msgstr "Feil ved avslutning av prøveperiode. Vennligst kontakt MGOS-teamet."
 
 #. js-lingui-id: 5g78zo
 #: src/pages/settings/members/SettingsWorkspaceMember.tsx
@@ -14867,8 +14867,8 @@ msgstr "Få flere kreditter"
 
 #. js-lingui-id: LBG67E
 #: src/modules/settings/experience/components/SettingsExperienceNotificationsSection.tsx
-msgid "Get notified of new inbox messages on this device when you are not looking at Twenty. Your choices below apply to every device"
-msgstr "Få varsler om nye innboksbeskjeder på denne enheten når du ikke ser på Twenty. Valgene dine nedenfor gjelder for alle enheter"
+msgid "Get notified of new inbox messages on this device when you are not looking at MGOS. Your choices below apply to every device"
+msgstr "Få varsler om nye innboksbeskjeder på denne enheten når du ikke ser på MGOS. Valgene dine nedenfor gjelder for alle enheter"
 
 #. js-lingui-id: AvbPI1
 #: src/modules/settings/enterprise/components/EnterprisePlanModal.tsx
@@ -15417,8 +15417,8 @@ msgstr "Hjelpesenter"
 
 #. js-lingui-id: GY8MUv
 #: src/modules/settings/privacy/components/SettingsPrivacySharingWithTwenty.tsx
-msgid "Help improve Twenty"
-msgstr "Hjelp oss med å forbedre Twenty"
+msgid "Help improve MGOS"
+msgstr "Hjelp oss med å forbedre MGOS"
 
 #. js-lingui-id: tIb8bD
 #: src/modules/ai-chat/constants/AiChatAssistantAvatarShapeLabels.ts
@@ -15552,8 +15552,8 @@ msgstr "Fremhevet sitat"
 
 #. js-lingui-id: 1ETc0T
 #: src/pages/settings/community/SettingsCommunity.tsx
-msgid "Hire a partner to help you implement and customize Twenty."
-msgstr "Lei inn en partner for å hjelpe deg med å implementere og tilpasse Twenty."
+msgid "Hire a partner to help you implement and customize MGOS."
+msgstr "Lei inn en partner for å hjelpe deg med å implementere og tilpasse MGOS."
 
 #. js-lingui-id: i0qMbr
 #: src/modules/ai-chat/instance/components/AiChatNewThreadPageActions.tsx
@@ -16061,8 +16061,8 @@ msgstr "Importer gjentakende møter 90 dager frem i tid"
 
 #. js-lingui-id: LHHO6e
 #: src/modules/getting-started/constants/GettingStartedImportPrompt.ts
-msgid "Import the attached files into Twenty. Work out which records they contain and shape the workspace around them: reuse the objects and fields that fit, add the ones that are missing, then create the records and link them together."
-msgstr "Importer de vedlagte filene til Twenty. Finn ut hvilke poster de inneholder, og tilpass arbeidsområdet rundt dem: gjenbruk objektene og feltene som passer, legg til dem som mangler, og opprett deretter postene og koble dem sammen."
+msgid "Import the attached files into MGOS. Work out which records they contain and shape the workspace around them: reuse the objects and fields that fit, add the ones that are missing, then create the records and link them together."
+msgstr "Importer de vedlagte filene til MGOS. Finn ut hvilke poster de inneholder, og tilpass arbeidsområdet rundt dem: gjenbruk objektene og feltene som passer, legg til dem som mangler, og opprett deretter postene og koble dem sammen."
 
 #. js-lingui-id: vXTVX9
 #: src/pages/onboarding/ImportContacts.tsx
@@ -17084,7 +17084,7 @@ msgstr "Fortsett å spore åpningene og klikkene mine"
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 #: src/modules/getting-started/components/GettingStartedKeepPlanButton.tsx
 msgid "Keep Twenty"
-msgstr "Behold Twenty"
+msgstr "Behold MGOS"
 
 #. js-lingui-id: 7sMeHQ
 #: src/modules/workflow/workflow-steps/workflow-actions/http-request-action/components/KeyValuePairInput.tsx
@@ -19298,8 +19298,8 @@ msgstr "Modellnivå · bytter til en tillatt modell"
 
 #. js-lingui-id: iaurWj
 #: src/pages/settings/ai/components/SettingsAiModelsTab.tsx
-msgid "Model used when you chat with Twenty"
-msgstr "Modell som brukes når du chatter med Twenty"
+msgid "Model used when you chat with MGOS"
+msgstr "Modell som brukes når du chatter med MGOS"
 
 #. js-lingui-id: //nm2/
 #: src/modules/settings/ai/utils/getSettingsAiTabs.ts
@@ -19893,8 +19893,8 @@ msgstr "Vises aldri ved pålogging. Medlemmer bruker URL-en til arbeidsområdet.
 
 #. js-lingui-id: 3JnA+j
 #: src/modules/settings/privacy/components/SettingsPrivacySafeguards.tsx
-msgid "Never, by Twenty or providers"
-msgstr "Aldri, av Twenty eller leverandører"
+msgid "Never, by MGOS or providers"
+msgstr "Aldri, av MGOS eller leverandører"
 
 #. js-lingui-id: isRobC
 #: src/modules/ai-chat/messages/components/AiChatMessage.tsx
@@ -22009,8 +22009,8 @@ msgstr "Én per kjøring"
 
 #. js-lingui-id: 1WZTTl
 #: src/pages/settings/enterprise/SettingsEnterprise.tsx
-msgid "One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install Twenty on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats."
-msgstr "Ett abonnement gir én organisasjonsnøkkel som driver én produksjonsinstans og én eventuell staging- eller testinstans. For å kjøre et staging- eller testmiljø installerer du Twenty på en annen server, aktiverer den med den samme organisasjonsnøkkelen, og registrerer deretter den serveren som en utviklingsinstans. Utviklingsinstanser låser opp premiumfunksjoner uten ekstra fakturering og teller ikke mot produksjonssetene dine."
+msgid "One subscription provides one Organization key that powers one production instance and one potential staging or test instance. To run a staging or test environment, install MGOS on a second server, activate it with this same Organization key, then register that server as a development instance. Development instances unlock premium features without extra billing and do not count toward your production seats."
+msgstr "Ett abonnement gir én organisasjonsnøkkel som driver én produksjonsinstans og én eventuell staging- eller testinstans. For å kjøre et staging- eller testmiljø installerer du MGOS på en annen server, aktiverer den med den samme organisasjonsnøkkelen, og registrerer deretter den serveren som en utviklingsinstans. Utviklingsinstanser låser opp premiumfunksjoner uten ekstra fakturering og teller ikke mot produksjonssetene dine."
 
 #. js-lingui-id: YO4da4
 #: src/modules/settings/admin-panel/constants/BillingArrangementStatusTags.ts
@@ -22070,7 +22070,7 @@ msgstr "Aktiver bare for trinn som er trygge å kjøre to ganger: et mislykket f
 #. js-lingui-id: KsHGCA
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
 msgid "Only if a Twenty partner referred you. Once applied, it can't be changed."
-msgstr "Kun hvis du ble henvist av en Twenty-partner. Når den er brukt, kan den ikke endres."
+msgstr "Kun hvis du ble henvist av en MGOS-partner. Når den er brukt, kan den ikke endres."
 
 #. js-lingui-id: aluwJP
 #: src/modules/settings/data-model/object-details/components/SettingsUpdateDataModelObjectAboutForm.tsx
@@ -22206,8 +22206,8 @@ msgstr "Åpne chatter i"
 
 #. js-lingui-id: n0vVgf
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Open Claude with the Twenty connector name and MCP URL prefilled."
-msgstr "Åpne Claude med Twenty-koblingsnavn og MCP-URL forhåndsutfylt."
+msgid "Open Claude with the MGOS connector name and MCP URL prefilled."
+msgstr "Åpne Claude med MGOS-koblingsnavn og MCP-URL forhåndsutfylt."
 
 #. js-lingui-id: N4OQXf
 #: src/modules/advanced-text-editor/components/AdvancedTextEditorTableHandleMenu.tsx
@@ -22221,8 +22221,8 @@ msgstr "Åpne samtale"
 
 #. js-lingui-id: +n2jpB
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Open Cursor's MCP installer with the Twenty remote server config."
-msgstr "Åpne Cursors MCP-installer med Twenty-fjernserverkonfigurasjonen."
+msgid "Open Cursor's MCP installer with the MGOS remote server config."
+msgstr "Åpne Cursors MCP-installer med MGOS-fjernserverkonfigurasjonen."
 
 #. js-lingui-id: JvSHIq
 #: src/modules/getting-started/components/GettingStartedSidebarCard.tsx
@@ -22303,8 +22303,8 @@ msgstr "Åpne oppføringer på en egen side"
 
 #. js-lingui-id: q170S2
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Open Replit with the Twenty remote server config."
-msgstr "Åpne Replit med Twenty-fjernserverkonfigurasjonen."
+msgid "Open Replit with the MGOS remote server config."
+msgstr "Åpne Replit med MGOS-fjernserverkonfigurasjonen."
 
 #. js-lingui-id: iMBVhp
 #: src/modules/advanced-text-editor/components/AdvancedTextEditorTableHandleMenu.tsx
@@ -22333,7 +22333,7 @@ msgstr "Åpne sidepanelet"
 
 #. js-lingui-id: sBd/cl
 #: src/modules/settings/mcp/utils/buildMcpSetupCategories.tsx
-msgid "Open Twenty's official ChatGPT integration for your workspace."
+msgid "Open MGOS's official ChatGPT integration for your workspace."
 msgstr "Åpne Twentys offisielle ChatGPT-integrasjon for arbeidsområdet ditt."
 
 #. js-lingui-id: tirDue
@@ -22872,8 +22872,8 @@ msgstr "Sidenavn"
 
 #. js-lingui-id: NRvxzv
 #: src/pages/not-found/NotFound.tsx
-msgid "Page Not Found | Twenty"
-msgstr "Siden ble ikke funnet | Twenty"
+msgid "Page Not Found | MGOS"
+msgstr "Siden ble ikke funnet | MGOS"
 
 #. js-lingui-id: QbrUIo
 #: src/modules/log-console/constants/LogConsoleSources.tsx
@@ -24771,8 +24771,8 @@ msgstr "Registrert som en utviklingsinstans. Denne instansen vil ikke bli faktur
 
 #. js-lingui-id: 5k0oOn
 #: src/modules/applications/components/AuthorizeClientIdentityNotice.tsx
-msgid "Registered with Twenty as the official {appName}"
-msgstr "Registrert med Twenty som den offisielle {appName}"
+msgid "Registered with MGOS as the official {appName}"
+msgstr "Registrert med MGOS som den offisielle {appName}"
 
 #. js-lingui-id: 1t/NnN
 #: src/modules/ai-chat/tool-calls/components/AiChatToolCallApprovalArgumentsCard.tsx
@@ -27754,8 +27754,8 @@ msgstr "Del kalenderhendelser på tvers av kanaler"
 
 #. js-lingui-id: S1jlER
 #: src/modules/settings/privacy/components/SettingsPrivacySharingWithTwenty.tsx
-msgid "Share session replays and AI conversations to help us improve Twenty"
-msgstr "Del øktopptak og KI-samtaler for å hjelpe oss med å forbedre Twenty"
+msgid "Share session replays and AI conversations to help us improve MGOS"
+msgstr "Del øktopptak og KI-samtaler for å hjelpe oss med å forbedre MGOS"
 
 #. js-lingui-id: w+9mVo
 #: src/modules/settings/two-factor-authentication/components/TwoFactorAuthenticationRecoveryCodeDisplay.tsx
@@ -27815,8 +27815,8 @@ msgstr "Delingsinnstillingene kunne ikke lastes inn."
 
 #. js-lingui-id: K8Q+iX
 #: src/modules/settings/privacy/components/SettingsPrivacySharingWithTwenty.tsx
-msgid "Sharing with Twenty"
-msgstr "Deling med Twenty"
+msgid "Sharing with MGOS"
+msgstr "Deling med MGOS"
 
 #. js-lingui-id: PGetcZ
 #: src/modules/ui/navigation/hooks/useShortcutAccessibleKeyLabels.ts
@@ -29082,7 +29082,7 @@ msgstr "Abonnement aktivert."
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 msgid "Subscription error. Please retry or contact Twenty team"
-msgstr "Feil med abonnementet. Prøv igjen eller kontakt Twenty-teamet"
+msgstr "Feil med abonnementet. Prøv igjen eller kontakt MGOS-teamet"
 
 #. js-lingui-id: kSY/ji
 #: src/modules/settings/billing/hooks/useApplyBillingSubscriptionChange.ts
@@ -29763,8 +29763,8 @@ msgstr "AWS-regionen for Bedrock"
 
 #. js-lingui-id: bEyeZg
 #: src/modules/applications/utils/getStandardApplicationDescription.ts
-msgid "The base data model every Twenty workspace runs on."
-msgstr "Den grunnleggende datamodellen som alle Twenty-arbeidsområder kjører på."
+msgid "The base data model every MGOS workspace runs on."
+msgstr "Den grunnleggende datamodellen som alle MGOS-arbeidsområder kjører på."
 
 #. js-lingui-id: 832YJ9
 #: src/modules/validation-rules/constants/ValidationRuleKeywords.ts
@@ -29794,7 +29794,7 @@ msgstr "Koden lar {memberName} logge på dette arbeidsområdet én gang uten aut
 #. js-lingui-id: G3XY+D
 #: src/modules/settings/billing/components/SettingsBillingPartnerCodeForm.tsx
 msgid "The code of the Twenty partner who referred you"
-msgstr "Koden til Twenty-partneren som henviste deg"
+msgstr "Koden til MGOS-partneren som henviste deg"
 
 #. js-lingui-id: aXzQ65
 #: src/modules/ai-chat/messages/components/AiChatCompactionIndicator.tsx
@@ -29976,7 +29976,7 @@ msgstr "Siden du søker etter er enten borte eller var aldri. La oss få deg til
 #. js-lingui-id: Ya1wb4
 #: src/pages/settings/legal/SettingsLegalDpaNew.tsx
 msgid "The PDF is pre-signed by Twenty and executed with your legal entity and authorized signatory."
-msgstr "PDF-en er forhåndssignert av Twenty og inngått med din juridiske enhet og autoriserte undertegner."
+msgstr "PDF-en er forhåndssignert av MGOS og inngått med din juridiske enhet og autoriserte undertegner."
 
 #. js-lingui-id: iz994T
 #: src/modules/ai-chat/tool-calls/components/AiChatApprovalMergeReview.tsx
@@ -30295,8 +30295,8 @@ msgstr "Denne agenten deler rollen sin med andre medlemmer eller agenter. Endre 
 
 #. js-lingui-id: Debhph
 #: src/modules/applications/components/AuthorizeClientIdentityNotice.tsx
-msgid "This app calls itself {appName}, but Twenty could not confirm it is. Only continue if you started this connection from {appName}."
-msgstr "Denne appen kaller seg {appName}, men Twenty kunne ikke bekrefte at den er det. Fortsett bare hvis du startet denne tilkoblingen fra {appName}."
+msgid "This app calls itself {appName}, but MGOS could not confirm it is. Only continue if you started this connection from {appName}."
+msgstr "Denne appen kaller seg {appName}, men MGOS kunne ikke bekrefte at den er det. Fortsett bare hvis du startet denne tilkoblingen fra {appName}."
 
 #. js-lingui-id: 3jroCi
 #: src/pages/settings/admin-panel/SettingsAdminApplicationRegistrationMonitoring.tsx
@@ -30352,8 +30352,8 @@ msgstr "Denne applikasjonen er ikke installert i dette arbeidsområdet. Den kan 
 #. js-lingui-id: +EhakQ
 #: src/modules/marketplace/components/SettingsApplicationInstallPermissionValidationModal.tsx
 #: src/pages/settings/applications/SettingsAvailableApplicationDetails.tsx
-msgid "This application is not listed on the marketplace and has not been reviewed by Twenty. Use at your own risk."
-msgstr "Denne applikasjonen er ikke oppført på markedsplassen og har ikke blitt gjennomgått av Twenty. Bruk på egen risiko."
+msgid "This application is not listed on the marketplace and has not been reviewed by MGOS. Use at your own risk."
+msgstr "Denne applikasjonen er ikke oppført på markedsplassen og har ikke blitt gjennomgått av MGOS. Bruk på egen risiko."
 
 #. js-lingui-id: X7w5n6
 #: src/pages/settings/applications/tabs/SettingsApplicationRegistrationDistributionTab.tsx
@@ -31528,34 +31528,34 @@ msgstr "Turkis"
 
 #. js-lingui-id: 8pmRvi
 #: src/pages/onboarding/SyncEmails.tsx
-msgid "Twenty adds the people you email and meet, and keeps them up to date without manual data entry."
-msgstr "Twenty legger til personene du sender e-post til og møter, og holder dem oppdatert uten manuell dataregistrering."
+msgid "MGOS adds the people you email and meet, and keeps them up to date without manual data entry."
+msgstr "MGOS legger til personene du sender e-post til og møter, og holder dem oppdatert uten manuell dataregistrering."
 
 #. js-lingui-id: UXtQTZ
 #: src/modules/settings/privacy/components/SettingsPrivacySafeguards.tsx
-msgid "Twenty Cloud"
-msgstr "Twenty Cloud"
+msgid "MGOS Cloud"
+msgstr "MGOS Cloud"
 
 #. js-lingui-id: JnaRPe
 #: src/modules/getting-started/components/step-preview/GettingStartedImportPreview.tsx
 #: src/modules/spreadsheet-import/steps/components/MatchColumnsStep/components/ColumnGrid.tsx
-msgid "Twenty fields"
-msgstr "Twenty-felter"
+msgid "MGOS fields"
+msgstr "MGOS-felter"
 
 #. js-lingui-id: pNo8xt
 #: src/pages/settings/ai/components/SettingsAiModelsTab.tsx
-msgid "Twenty fills each level with the best model that meets your requirements"
-msgstr "Twenty fyller hvert nivå med den beste modellen som oppfyller kravene dine"
+msgid "MGOS fills each level with the best model that meets your requirements"
+msgstr "MGOS fyller hvert nivå med den beste modellen som oppfyller kravene dine"
 
 #. js-lingui-id: WGKXUo
 #: src/modules/getting-started/components/GettingStartedBookCallSummary.tsx
-msgid "Twenty team"
-msgstr "Twenty-teamet"
+msgid "MGOS team"
+msgstr "MGOS-teamet"
 
 #. js-lingui-id: qUadjH
 #: src/modules/onboarding/components/OnboardingInviteTeamSkipDialog.tsx
-msgid "Twenty works better with your team"
-msgstr "Twenty fungerer bedre med teamet ditt"
+msgid "MGOS works better with your team"
+msgstr "MGOS fungerer bedre med teamet ditt"
 
 #. js-lingui-id: YIjS4q
 #: src/modules/ai/hooks/useAgentModelCapabilities.ts
@@ -33779,8 +33779,8 @@ msgstr ""
 
 #. js-lingui-id: nTuObL
 #: src/pages/auth/SignInUp.tsx
-msgid "Welcome to Twenty"
-msgstr "Velkommen til Twenty"
+msgid "Welcome to MGOS"
+msgstr "Velkommen til MGOS"
 
 #. js-lingui-id: t8ZvkC
 #: src/modules/ai-chat/workspace-setup/components/WorkspaceSetupChatPreamble.tsx

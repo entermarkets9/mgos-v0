@@ -90,7 +90,7 @@ msgstr "Erősítsd meg az új e-mail címed"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
+msgid "Connect to MGOS"
 msgstr "Csatlakozás a Twentyhez"
 
 #. js-lingui-explicit-id
@@ -165,8 +165,8 @@ msgstr "Ha nem Ön volt az, lépjen kapcsolatba a munkaterület rendszergazdáj�
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
-msgid "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
-msgstr "Ha a Twenty bevált számodra, minden rendben — nincs további teendőd. Ha mégsem ez a megfelelő megoldás, egy kattintással lemondhatod addig, és nem számítunk fel díjat."
+msgid "If MGOS is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
+msgstr "Ha a MGOS bevált számodra, minden rendben — nincs további teendőd. Ha mégsem ez a megfelelő megoldás, egy kattintással lemondhatod addig, és nem számítunk fel díjat."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -190,8 +190,8 @@ msgstr "Ha nem teszel semmit, szüneteltetjük a munkaterületedet, és az adata
 
 #. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
-msgid "If you'd ever like to give Twenty another try, you can start a fresh workspace in minutes — we'd love to have you back."
-msgstr "Ha valamikor később újra szeretnél esélyt adni a Twenty‑nek, néhány perc alatt új, üres munkaterületet indíthatsz — örömmel látunk vissza."
+msgid "If you'd ever like to give MGOS another try, you can start a fresh workspace in minutes — we'd love to have you back."
+msgstr "Ha valamikor később újra szeretnél esélyt adni a MGOS‑nek, néhány perc alatt új, üres munkaterületet indíthatsz — örömmel látunk vissza."
 
 #. js-lingui-explicit-id
 #: src/emails/server-admin-access-changed.email.tsx
@@ -210,7 +210,7 @@ msgstr "Az adatai törlésre kerültek, és többé nem állíthatók vissza."
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
+msgid "Join your team on MGOS"
 msgstr "Csatlakozzon a csapatához a Twentyn"
 
 #. js-lingui-explicit-id
@@ -256,8 +256,8 @@ msgstr "Munkaterület újraaktiválása"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Read Twenty's user guide"
-msgstr "Olvassa el a Twenty felhasználói útmutatóját"
+msgid "Read MGOS's user guide"
+msgstr "Olvassa el a MGOS felhasználói útmutatóját"
 
 #. js-lingui-explicit-id
 #: src/emails/password-reset-link.email.tsx
@@ -307,8 +307,8 @@ msgstr "Teszt e-mail"
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
-msgstr "Köszönjük, hogy regisztrált a Twenty szolgáltatására! Mielőtt elkezdenénk, csak meg kell erősítenünk, hogy ez Ön. Kattintson az alábbi hivatkozásra email címének megerősítéséhez."
+msgid "Thanks for registering for an account on MGOS! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
+msgstr "Köszönjük, hogy regisztrált a MGOS szolgáltatására! Mielőtt elkezdenénk, csak meg kell erősítenünk, hogy ez Ön. Kattintson az alábbi hivatkozásra email címének megerősítéséhez."
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-removed.email.tsx
@@ -337,18 +337,18 @@ msgstr "Ha meg szeretnéd tartani a munkaterületedet és mindent, amit létreho
 
 #. js-lingui-explicit-id
 #: src/components/BaseHead.tsx
-msgid "Twenty email"
-msgstr "Twenty e-mailjei"
+msgid "MGOS email"
+msgstr "MGOS e-mailjei"
 
 #. js-lingui-explicit-id
 #: src/components/Logo.tsx
-msgid "Twenty logo"
-msgstr "Twenty logó"
+msgid "MGOS logo"
+msgstr "MGOS logó"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Twenty.com, Public Benefit Corporation"
-msgstr "Twenty.com, Közhasznú Vállalat"
+msgid "MGOS.com, Public Benefit Corporation"
+msgstr "MGOS.com, Közhasznú Vállalat"
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -383,18 +383,18 @@ msgstr "Email ellenőrzése"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's developer documentation"
-msgstr "Látogasson el a Twenty fejlesztői dokumentációjához"
+msgid "Visit MGOS's developer documentation"
+msgstr "Látogasson el a MGOS fejlesztői dokumentációjához"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's GitHub repository"
-msgstr "Látogasson el a Twenty GitHub tárházához"
+msgid "Visit MGOS's GitHub repository"
+msgstr "Látogasson el a MGOS GitHub tárházához"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's website"
-msgstr "Látogasson el a Twenty weboldalára"
+msgid "Visit MGOS's website"
+msgstr "Látogasson el a MGOS weboldalára"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
@@ -403,8 +403,8 @@ msgstr "Mi sem szeretjük a váratlan levonásokat, ezért küldjük ezt a bará
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "We received a request to change the email address associated with your Twenty account. Click below to confirm this change."
-msgstr "Kérést kaptunk a Twenty-fiókjához társított e-mail-cím módosítására. A módosítás megerősítéséhez kattintson alább."
+msgid "We received a request to change the email address associated with your MGOS account. Click below to confirm this change."
+msgstr "Kérést kaptunk a MGOS-fiókjához társított e-mail-cím módosítására. A módosítás megerősítéséhez kattintson alább."
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
@@ -413,8 +413,8 @@ msgstr "Weboldal"
 
 #. js-lingui-explicit-id
 #: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "Mi az a Twenty?"
+msgid "What is MGOS?"
+msgstr "Mi az a MGOS?"
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx

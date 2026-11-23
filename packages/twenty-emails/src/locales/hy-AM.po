@@ -90,8 +90,8 @@ msgstr "Հաստատեք ձեր նոր էլփոստի հասցեն"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
-msgstr "Միացեք Twenty պլատֆորմին"
+msgid "Connect to MGOS"
+msgstr "Միացեք MGOS պլատֆորմին"
 
 #. js-lingui-explicit-id
 #: src/emails/password-update-notify.email.tsx
@@ -165,8 +165,8 @@ msgstr "Եթե դա դուք չեք արել, կապվեք ձեր աշխատատ
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
-msgid "If Twenty is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
-msgstr "Եթե Twenty-ը ձեզ հարմար է, ամեն ինչ կարգին է՝ այլևս ոչինչ անել պետք չէ։ Եթե այն ձեզ համար չէ, կարող եք մինչև այդ մեկ սեղմումով չեղարկել, և գանձում չի կատարվի։"
+msgid "If MGOS is working for you, you're all set — there's nothing to do. If it's not the right fit, you can cancel in one click before then and you won't be charged."
+msgstr "Եթե MGOS-ը ձեզ հարմար է, ամեն ինչ կարգին է՝ այլևս ոչինչ անել պետք չէ։ Եթե այն ձեզ համար չէ, կարող եք մինչև այդ մեկ սեղմումով չեղարկել, և գանձում չի կատարվի։"
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -190,8 +190,8 @@ msgstr "Եթե ոչինչ չանեք, մենք կդադարեցնենք ձեր w
 
 #. js-lingui-explicit-id
 #: src/emails/clean-suspended-workspace.email.tsx
-msgid "If you'd ever like to give Twenty another try, you can start a fresh workspace in minutes — we'd love to have you back."
-msgstr "Եթե երբևէ ցանկանաք նորից փորձել Twenty-ը, կարող եք մի քանի րոպեում սկսել նոր workspace՝ մենք ուրախ կլինենք կրկին ձեզ տեսնել։"
+msgid "If you'd ever like to give MGOS another try, you can start a fresh workspace in minutes — we'd love to have you back."
+msgstr "Եթե երբևէ ցանկանաք նորից փորձել MGOS-ը, կարող եք մի քանի րոպեում սկսել նոր workspace՝ մենք ուրախ կլինենք կրկին ձեզ տեսնել։"
 
 #. js-lingui-explicit-id
 #: src/emails/server-admin-access-changed.email.tsx
@@ -210,8 +210,8 @@ msgstr "Դրա տվյալները հեռացվել են և այլևս չեն կ�
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
-msgstr "Միացեք ձեր թիմին Twenty պլատֆորմում"
+msgid "Join your team on MGOS"
+msgstr "Միացեք ձեր թիմին MGOS պլատֆորմում"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-subscription-renewing.email.tsx
@@ -256,8 +256,8 @@ msgstr "Վերաակտիվացնել workspace-ը"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Read Twenty's user guide"
-msgstr "Կարդացեք Twenty-ի օգտվողի ձեռնարկը"
+msgid "Read MGOS's user guide"
+msgstr "Կարդացեք MGOS-ի օգտվողի ձեռնարկը"
 
 #. js-lingui-explicit-id
 #: src/emails/password-reset-link.email.tsx
@@ -307,8 +307,8 @@ msgstr "Թեստային նամակ"
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
-msgstr "Շնորհակալություն Twenty-ում հաշիվ գրանցելու համար։ Նախքան սկսելը, պարզապես պետք է հաստատենք, որ սա դուք եք։ Սեղմեք ստորև՝ ձեր էլ. փոստի հասցեն հաստատելու համար։"
+msgid "Thanks for registering for an account on MGOS! Before we get started, we just need to confirm that this is you. Click below to verify your email address."
+msgstr "Շնորհակալություն MGOS-ում հաշիվ գրանցելու համար։ Նախքան սկսելը, պարզապես պետք է հաստատենք, որ սա դուք եք։ Սեղմեք ստորև՝ ձեր էլ. փոստի հասցեն հաստատելու համար։"
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-removed.email.tsx
@@ -337,18 +337,18 @@ msgstr "Ձեր workspace-ը և ձեր ստեղծած ամեն ինչը պահպ�
 
 #. js-lingui-explicit-id
 #: src/components/BaseHead.tsx
-msgid "Twenty email"
-msgstr "Twenty-ի էլ. փոստը"
+msgid "MGOS email"
+msgstr "MGOS-ի էլ. փոստը"
 
 #. js-lingui-explicit-id
 #: src/components/Logo.tsx
-msgid "Twenty logo"
-msgstr "Twenty-ի պատկերանշանը"
+msgid "MGOS logo"
+msgstr "MGOS-ի պատկերանշանը"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Twenty.com, Public Benefit Corporation"
-msgstr "Twenty.com, հասարակային շահի կորպորացիա"
+msgid "MGOS.com, Public Benefit Corporation"
+msgstr "MGOS.com, հասարակային շահի կորպորացիա"
 
 #. js-lingui-explicit-id
 #: src/emails/two-factor-authentication-recovery-code-issued.email.tsx
@@ -383,18 +383,18 @@ msgstr "Հաստատել էլփոստը"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's developer documentation"
-msgstr "Այցելեք Twenty-ի ծրագրավորողների փաստաթղթավորումը"
+msgid "Visit MGOS's developer documentation"
+msgstr "Այցելեք MGOS-ի ծրագրավորողների փաստաթղթավորումը"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's GitHub repository"
-msgstr "Այցելեք Twenty-ի GitHub պահոցը"
+msgid "Visit MGOS's GitHub repository"
+msgstr "Այցելեք MGOS-ի GitHub պահոցը"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
-msgid "Visit Twenty's website"
-msgstr "Այցելեք Twenty-ի վեբկայքը"
+msgid "Visit MGOS's website"
+msgstr "Այցելեք MGOS-ի վեբկայքը"
 
 #. js-lingui-explicit-id
 #: src/emails/billing-trial-converting.email.tsx
@@ -403,8 +403,8 @@ msgstr "Մենք չենք սիրում անսպասելի գանձումներ, 
 
 #. js-lingui-explicit-id
 #: src/emails/send-email-verification-link.email.tsx
-msgid "We received a request to change the email address associated with your Twenty account. Click below to confirm this change."
-msgstr "Մենք ստացել ենք ձեր Twenty հաշվի հետ կապված էլ. փոստի հասցեն փոխելու հարցում։ Սեղմեք ստորև՝ այս փոփոխությունը հաստատելու համար։"
+msgid "We received a request to change the email address associated with your MGOS account. Click below to confirm this change."
+msgstr "Մենք ստացել ենք ձեր MGOS հաշվի հետ կապված էլ. փոստի հասցեն փոխելու հարցում։ Սեղմեք ստորև՝ այս փոփոխությունը հաստատելու համար։"
 
 #. js-lingui-explicit-id
 #: src/components/Footer.tsx
@@ -413,8 +413,8 @@ msgstr "Վեբկայք"
 
 #. js-lingui-explicit-id
 #: src/components/WhatIsTwenty.tsx
-msgid "What is Twenty?"
-msgstr "Ի՞նչ է Twenty-ը։"
+msgid "What is MGOS?"
+msgstr "Ի՞նչ է MGOS-ը։"
 
 #. js-lingui-explicit-id
 #: src/emails/send-invite-link.email.tsx

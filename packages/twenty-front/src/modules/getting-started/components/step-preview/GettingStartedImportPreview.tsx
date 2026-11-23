@@ -205,7 +205,7 @@ export const GettingStartedImportPreview = () => {
               src="/images/integrations/twenty-logo.svg"
               alt=""
             />
-            {t`Twenty fields`}
+            {t`MGOS fields`}
           </StyledSideHeader>
           {TARGET_FIELDS.map((field) => (
             <StyledPill key={field.id} data-side="target">
