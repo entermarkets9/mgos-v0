@@ -78,6 +78,12 @@ const MobileHomePage = lazy(() =>
   })),
 );
 
+const CalculatorPage = lazy(() =>
+  import('~/pages/calculator/CalculatorPage').then((module) => ({
+    default: module.CalculatorPage,
+  })),
+);
+
 const NotFound = lazy(() =>
   import('~/pages/not-found/NotFound').then((module) => ({
     default: module.NotFound,
@@ -219,6 +225,17 @@ export const createWorkspaceRouteObjects = ({
       path: SETTINGS_ROOT_PATH,
       element: <SettingsRouteOutlet />,
       children: settingsRouteObjects,
+    },
+    {
+      path: AppPath.Calculator,
+      element: (
+        <LazyRoute>
+          <CalculatorPage />
+        </LazyRoute>
+      ),
+      handle: {
+        workspaceSurfaces: MAIN_AND_SIDE_PANEL,
+      },
     },
     {
       path: AppPath.Dpa,

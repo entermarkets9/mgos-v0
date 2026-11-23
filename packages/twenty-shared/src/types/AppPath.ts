@@ -40,6 +40,9 @@ export enum AppPath {
   // Deep link for twenty.com/dpa → in-app DPA generator (login-gated redirect).
   Dpa = '/dpa',
 
+  // MGOS: custom UI surface (sidebar Calculator)
+  Calculator = '/calculator',
+
   NotFoundWildcard = '*',
   NotFound = '/not-found',
 }
