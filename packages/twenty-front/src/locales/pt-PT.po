@@ -5264,7 +5264,7 @@ msgstr "Período de cobrança"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "Erro na sessão do portal de cobrança. Tente novamente ou contacte a equipa da MGOS"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "Verificando a disponibilidade do calendário…"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "Erro na sessão de checkout. Por favor, tente novamente ou entre em contato com a equipe da MGOS"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "Erro ao cancelar a mudança de plano."
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "Erro ao encerrar o período de avaliação. Por favor, entre em contato com a equipe MGOS."
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "Assinatura ativada."
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "Erro na subscrição. Tente novamente ou contacte a equipa da MGOS"
 
 #. js-lingui-id: kSY/ji

@@ -5264,7 +5264,7 @@ msgstr "Faktureringsperiode"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "Feil ved faktureringsportalsesjon. Prøv igjen eller kontakt MGOS-teamet"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "Kontrollerer kalendertilgjengelighet…"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "Feil ved utsjekkingsøkt. Prøv igjen eller kontakt MGOS-teamet"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "Feil under avbrytelse av planbytte."
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "Feil ved avslutning av prøveperiode. Vennligst kontakt MGOS-teamet."
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "Abonnement aktivert."
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "Feil med abonnementet. Prøv igjen eller kontakt MGOS-teamet"
 
 #. js-lingui-id: kSY/ji

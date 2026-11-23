@@ -5264,7 +5264,7 @@ msgstr "Számlázási időszak"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "Számlázási portál munkamenet hiba. Kérem, próbálja újra, vagy vegye fel a kapcsolatot a MGOS csapatával"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "Naptár rendelkezésre állásának ellenőrzése…"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "Fizetési munkamenet hiba. Kérem, próbálja újra, vagy vegye fel a kapcsolatot a MGOS csapatával"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "Hiba a csomagváltás törlésekor."
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "Hiba a próbaidőszak befejezésekor. Kérjük, vegye fel a kapcsolatot a MGOS csapatával."
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "Az előfizetés aktiválva."
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "Előfizetési hiba. Kérem, próbálja újra, vagy vegye fel a kapcsolatot a MGOS csapatával"
 
 #. js-lingui-id: kSY/ji

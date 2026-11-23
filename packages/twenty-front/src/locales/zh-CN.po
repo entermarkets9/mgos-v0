@@ -5264,7 +5264,7 @@ msgstr "计费周期"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "计费门户会话错误。请重试或联系 MGOS 团队"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "正在检查日历空闲情况……"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "结账会话错误。请重试或联系 MGOS 团队"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "取消计划切换时出错。"
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "结束试用期时发生错误。请联系Twenty团队。"
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "订阅已激活。"
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "订阅错误。请重试或联系 MGOS 团队"
 
 #. js-lingui-id: kSY/ji

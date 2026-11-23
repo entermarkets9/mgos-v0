@@ -5264,7 +5264,7 @@ msgstr "Περίοδος χρέωσης"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "Σφάλμα συνεδρίας πύλης χρέωσης. Δοκιμάστε ξανά ή επικοινωνήστε με την ομάδα MGOS"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "Γίνεται έλεγχος διαθεσιμότητας ημερολ�
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "Σφάλμα συνεδρίας Checkout. Δοκιμάστε ξανά ή επικοινωνήστε με την ομάδα MGOS"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "Σφάλμα κατά την ακύρωση αλλαγής προγρά�
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "Σφάλμα κατά τη λήξη της δοκιμαστικής περιόδου. Επικοινωνήστε με την ομάδα MGOS."
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "Η συνδρομή ενεργοποιήθηκε."
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "Σφάλμα συνδρομής. Δοκιμάστε ξανά ή επικοινωνήστε με την ομάδα MGOS"
 
 #. js-lingui-id: kSY/ji

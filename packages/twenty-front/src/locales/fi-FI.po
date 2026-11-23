@@ -5264,7 +5264,7 @@ msgstr "Laskutusjakso"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "Laskutusportaalin istuntovirhe. Yritä uudelleen tai ota yhteyttä MGOS-tiimiin"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "Tarkistetaan kalenterin saatavuutta…"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "Tarkista istunnovirhe. Yritä uudelleen tai ota yhteyttä MGOS-tiimiin"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "Virhe suunnitelman peruutuksessa."
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "Virhe kokeilujakson päättämisessä. Ota yhteyttä MGOS -tiimiin."
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "Tilaus aktivoitu."
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "Tilausvirhe. Yritä uudelleen tai ota yhteyttä MGOS-tiimiin"
 
 #. js-lingui-id: kSY/ji

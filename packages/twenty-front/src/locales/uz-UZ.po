@@ -5264,7 +5264,7 @@ msgstr "Hisob-kitob davri"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "Hisob-kitob portali seansi xatosi. Iltimos, qayta urinib ko‘ring yoki MGOS jamoasiga murojaat qiling"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "Taqvimdagi mavjudlik tekshirilmoqda…"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "To‘lov seansi xatosi. Iltimos, qayta urinib ko‘ring yoki MGOS jamoasiga murojaat qiling"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "Tarifni o‘zgartirishni bekor qilishda xatolik yuz berdi."
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "Sinov davrini yakunlashda xatolik yuz berdi. Iltimos, MGOS jamoasiga murojaat qiling."
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "Obuna faollashtirildi."
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "Obuna xatosi. Iltimos, qayta urinib ko‘ring yoki MGOS jamoasiga murojaat qiling"
 
 #. js-lingui-id: kSY/ji

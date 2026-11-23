@@ -5259,8 +5259,8 @@ msgstr "Billing period"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
-msgstr "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
+msgstr "Billing portal session error. Please retry or contact MGOS team"
 
 #. js-lingui-id: H++SIW
 #: src/modules/settings/billing/hooks/useBillingSubscriptionChangeWording.ts
@@ -6376,8 +6376,8 @@ msgstr "Checking calendar availability…"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
-msgstr "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
+msgstr "Checkout session error. Please retry or contact MGOS team"
 
 #. js-lingui-id: SviKkE
 #: src/modules/localization/hooks/useLocaleOptions.ts
@@ -12505,8 +12505,8 @@ msgstr "Error while cancelling plan switching."
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
-msgstr "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
+msgstr "Error while ending trial period. Please contact MGOS team."
 
 #. js-lingui-id: 5g78zo
 #: src/pages/settings/members/SettingsWorkspaceMember.tsx
@@ -29076,8 +29076,8 @@ msgstr "Subscription activated."
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
-msgstr "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
+msgstr "Subscription error. Please retry or contact MGOS team"
 
 #. js-lingui-id: kSY/ji
 #: src/modules/settings/billing/hooks/useApplyBillingSubscriptionChange.ts

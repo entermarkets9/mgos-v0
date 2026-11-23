@@ -5264,7 +5264,7 @@ msgstr "청구 기간"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "결제 포털 세션 오류입니다. 다시 시도하거나 MGOS 팀에 문의하세요"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "캘린더 사용 가능 여부 확인 중…"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "결제 세션 오류입니다. 다시 시도하거나 MGOS 팀에 문의하십시오"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "플랜 전환 취소 중 오류 발생."
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "시험 기간 종료 중 오류가 발생했습니다. MGOS 팀에 문의하세요."
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "구독이 활성화되었습니다."
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "구독 오류입니다. 다시 시도하거나 MGOS 팀에 문의하세요"
 
 #. js-lingui-id: kSY/ji

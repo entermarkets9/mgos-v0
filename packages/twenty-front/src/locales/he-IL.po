@@ -5264,7 +5264,7 @@ msgstr "תקופת חיוב"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "שגיאה במושב פורטל החיוב. בבקשה נסה שנית או צור קשר עם צוות MGOS"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "בודק את זמינות היומן…"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "שגיאת חיבור במעמד תשלום. בבקשה נסה שנית או צור קשר עם צוות MGOS"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "שגיאה בביטול החלפת תכנית."
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "שגיאה בעת סיום תקופת הניסיון. אנא פנה לצוות MGOS."
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "המנוי הופעל."
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "שגיאת מנוי. בבקשה נסה שנית או צור קשר עם צוות MGOS"
 
 #. js-lingui-id: kSY/ji

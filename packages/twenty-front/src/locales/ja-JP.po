@@ -5264,7 +5264,7 @@ msgstr "請求期間"
 
 #. js-lingui-id: xF/NXI
 #: src/modules/settings/billing/hooks/useBillingPortalSession.ts
-msgid "Billing portal session error. Please retry or contact Twenty team"
+msgid "Billing portal session error. Please retry or contact MGOS team"
 msgstr "請求ポータルセッションエラー。再試行するか、MGOS チームに連絡してください"
 
 #. js-lingui-id: H++SIW
@@ -6381,7 +6381,7 @@ msgstr "カレンダーの空き状況を確認中…"
 #. js-lingui-id: SxwQE8
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
 #: src/modules/settings/billing/hooks/useHandleCheckoutSession.ts
-msgid "Checkout session error. Please retry or contact Twenty team"
+msgid "Checkout session error. Please retry or contact MGOS team"
 msgstr "チェックアウトセッションエラー。再試行するか、Twentyチームに連絡してください"
 
 #. js-lingui-id: SviKkE
@@ -12510,7 +12510,7 @@ msgstr "プラン切替のキャンセル中にエラーが発生しました。
 
 #. js-lingui-id: QmR+2U
 #: src/modules/settings/billing/hooks/useEndSubscriptionTrialPeriod.ts
-msgid "Error while ending trial period. Please contact Twenty team."
+msgid "Error while ending trial period. Please contact MGOS team."
 msgstr "試用期間の終了中にエラーが発生しました。Twentyチームにお問い合わせください。"
 
 #. js-lingui-id: 5g78zo
@@ -29081,7 +29081,7 @@ msgstr "サブスクリプションが有効になりました。"
 #: src/modules/settings/billing/components/AddPaymentMethodForm.tsx
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
 #: src/modules/settings/billing/hooks/useSubmitSubscriptionPayment.ts
-msgid "Subscription error. Please retry or contact Twenty team"
+msgid "Subscription error. Please retry or contact MGOS team"
 msgstr "サブスクリプションエラー。再試行するか、MGOS チームに連絡してください"
 
 #. js-lingui-id: kSY/ji
